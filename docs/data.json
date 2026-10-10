@@ -1,6 +1,554 @@
 {
- "updated": "2026-10-10",
+ "updated": "2026-10-11",
  "items": [
+  {
+   "text": "7月1日、金沢市本町（金沢駅前の別院通り）に唐揚げ専門店「ゴッドママからあげ キッチン和桜ん」がオープン。イートインとテイクアウトがある",
+   "note": "金沢駅前で唐揚げを食べたい人、持ち帰りたい人に新しい一軒",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": "2026-07-01",
+   "end": "2026-07-01",
+   "source": "https://www.weekend-kanazawa.com/entry/godmama",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/9e7fd952d7f59e37a90f0de8c3fc5a575ca98409/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20260918%2F20260918150949.jpg",
+    "title": "【金沢】ハマる人続出の唐揚げ！「ゴッドママからあげ キッチン和桜ん」がオープン！駅前でランチやちょい飲みにもおすすめ♪【NEW OPEN】 - 週末、金沢。",
+    "description": "7月1日、金沢市本町に「ゴッドママからあげ キッチン和桜ん（わをん）」がオープン。 衣サクッ、中は柔らかジューシーな大きい唐揚げが名物のお店で、「ここでしか食べられない！」と県外から通うファンも多い…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "野々市に焼肉店「焼肉たなか商店」がオープンした。1,000円〜のランチセットがある",
+   "note": "野々市で焼肉ランチを探す人の選択肢",
+   "kind": "スポット",
+   "area": "野々市市",
+   "start": null,
+   "end": null,
+   "source": "https://www.weekend-kanazawa.com/entry/yakiniku-tanaka",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "加賀",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/ea316fa5a9f3de36dac73ea263534991c3d6817e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20260923%2F20260923200535.jpg",
+    "title": "【野々市】「焼肉たなか商店」は1,000円〜のランチセットがコスパ抜群！女性にも大人気の焼肉店♡【NEW OPEN】 - 週末、金沢。",
+    "description": "8月8日、野々市市御経塚に「焼肉たなか商店」がオープン！ 能登牛や能登豚、多彩なホルモンが楽しめる焼肉店で、ご飯お代わり無料のお得な定食ランチが大人気。 女性客にも評判の高いお店に、さっそくお邪魔し…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "6月27日、金沢市片町に「金沢 鮨と日本ワイン藍AO」がオープン。北陸の魚介や加賀野菜を使った和食や鮨と、日本ワインのペアリングが楽しめる。「片町小料理 翔」が手掛ける新店",
+   "note": "片町で記念日や接待の店を探す人向け",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": "2026-06-27",
+   "end": "2026-06-27",
+   "source": "https://www.weekend-kanazawa.com/entry/ao",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/20e421fc7ed99c91ba7168e786793328daa22321/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20260624%2F20260624231413.jpg",
+    "title": "「金沢 鮨と日本ワイン藍AO」で愉しむ、和食と日本ワインの至高ペアリング。記念日や接待におすすめ【NEW OPEN】 - 週末、金沢。",
+    "description": "6月27日、金沢市片町に「金沢 鮨と日本ワイン藍AO」がオープン！ 北陸の新鮮な魚介や加賀野菜を使った和食や鮨と、厳選された日本ワインのペアリングを五感で堪能できる、注目のレストランができました。…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "10/31に金沢市尾張町でレストラン「COTOHOGI」がオープン予定",
+   "note": "尾張町を歩く人の行き先に加わる開店予定日",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "source": "https://ishikawa-style.com/ishikawa-newopen2026/",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "http://ishikawa-style.com/wp-content/uploads/2026/01/Image20260108141031.png",
+    "title": "10/9更新【2026年最新版】石川県の新店・リニューアル情報まとめ｜金沢・加賀・能登の注目スポットをチェック！ | いしかわスタイル",
+    "description": "石川県内（金沢市・加賀市・白山市・能美市・小松市など）で2026年にオープン・リニューアルした店舗情報を月別にわかりやすくまとめました。最新の開店情報をチェックして、週末のお出かけや旅行プランにぜひ…",
+    "site": "いしかわスタイル"
+   }
+  },
+  {
+   "text": "金沢・片町に、昼はコーヒーショップ、夜は音楽バーの「SALABO」がオープンした",
+   "note": "同じ店を昼と夜で使い分けられる片町の新店",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://www.kanazawabiyori.com/spot/spot_133025.html",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://www.kanazawabiyori.com/contents/wp-content/uploads/2026/05/3ce8e30c80b084495315b59bbe059c1a.jpg",
+    "title": "【金沢・片町】昼はコーヒーショップ、夜は音楽バー。感度の高いカルチャーが交差する『SALABO』。",
+    "description": "片町の夜に、新たなカルチャースポットとして注目を集めている『SALABO』。昼はコーヒーショップ、夜は良質な音楽を楽しめるMusic Barとして営業し、ローカルカルチャーとインバウンドが交差する新…",
+    "site": "金沢日和"
+   }
+  },
+  {
+   "text": "小松市に喫茶店「喫茶コビト」が8月3日にオープンした",
+   "note": "小松で喫茶店を探す人向けの新しい一軒",
+   "kind": "スポット",
+   "area": "小松市",
+   "start": "2026-08-03",
+   "end": "2026-08-03",
+   "source": "https://www.kanazawabiyori.com/spotlist",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "加賀"
+  },
+  {
+   "text": "小松市赤瀬町に洋菓子の「みんなのおやつ SOU」が7月19日にオープンした",
+   "note": "小松で新しいお菓子の店を探す人向け",
+   "kind": "スポット",
+   "area": "小松市",
+   "start": "2026-07-19",
+   "end": "2026-07-19",
+   "source": "https://tabelog.com/ishikawa/C17203/rstLst/cond16-00-00/",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "加賀",
+   "og": null
+  },
+  {
+   "text": "小松市波佐谷町の旧波佐谷小学校跡地に、食堂「CHABU Dining」が5月にオープンした",
+   "note": "学校跡地という場所そのものが、行ってみる理由になる",
+   "kind": "スポット",
+   "area": "小松市",
+   "start": null,
+   "end": null,
+   "source": "https://tabelog.com/ishikawa/C17203/rstLst/cond16-00-00/RC21/",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "加賀",
+   "og": null
+  },
+  {
+   "text": "金沢ナイトミュージアム2026が7/11〜10/25の指定日に開催。音楽、演劇、怪談、マジックなど多種多様なアートプログラムで夜の金沢のまちを盛り上げる",
+   "note": "10/25まで、夜の金沢で芸術に触れる機会が残っている",
+   "kind": "催し",
+   "area": "金沢市",
+   "start": "2026-07-11",
+   "end": "2026-10-25",
+   "source": "https://www.kanazawa-kankoukyoukai.or.jp/event/index_1_2__56.html",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": null,
+    "title": "イベント｜金沢の観光・旅行情報サイト【金沢旅物語】",
+    "description": "金沢市のイベント情報満載！人気のイベントから、グルメ、ライトアップ、アート、体験型イベントなど、お好みのカテゴリーや開催日から簡単検索していただけます。行ってみたい、見てみたいイベントがいっぱい！",
+    "site": "金沢市観光公式サイト"
+   }
+  },
+  {
+   "text": "10/17(土)に「能登牛と秋の味覚市in能登町」が開催される",
+   "note": "能登で秋の味覚を味わえる日の予定",
+   "kind": "催し",
+   "area": "能登町",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "source": "https://www.enjoytokyo.jp/event/list/sta319300/cat02/",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "能登",
+   "og": {
+    "image": null,
+    "title": "穴水駅周辺 買い物・ショッピングのイベント｜レッツエンジョイ東京",
+    "description": "「穴水駅周辺 買い物・ショッピング」の開催中または開催予定のイベントを紹介。おでかけに詳しい編集部がセレクトしました。気になるイベントは開催期間や開催場所、最寄駅、地図、料金などをチェック！",
+    "site": "レッツエンジョイ東京"
+   }
+  },
+  {
+   "text": "10/25(日)にかほく市のあそびの森 かほっくるで「Happiness Time」が開かれる",
+   "note": "かほく市でその日の予定を探す人向け",
+   "kind": "話題",
+   "area": "かほく市",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "source": "https://ishikawa-style.com/happinesstime-20261025/",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://ishikawa-style.com/wp-content/uploads/2026/10/70a138de-2fb5-4ff8-a071-b8198c5dfbb2-TICKET.file1_tk-茶色-白-ナチュラル-水彩-マルシェ-イベン-264d91.png",
+    "title": "【10/25(日)】Happiness Time in あそびの森 かほっくる@かほく市 | いしかわスタイル",
+    "description": "2026年10月25日(日)、あそびの森 かほっくるにて「Happiness Time in あそびの森 かほっくる」が開催されます。心と身体を癒すボディケア、占い、アクセサリーやお菓子の販売が行わ…",
+    "site": "いしかわスタイル"
+   }
+  },
+  {
+   "text": "10/25(日)に七尾市で「HEALING HARMONY PROJECT ブロードウェイ・ミュージカル・コンサート」が開かれる。要申込",
+   "note": "申込が必要なので、行きたい人は早めに確認",
+   "kind": "話題",
+   "area": "七尾市",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "source": "https://ishikawa-style.com/healing-harmony-20261025/",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "能登",
+   "og": {
+    "image": "https://ishikawa-style.com/wp-content/uploads/2026/10/ヒーリングハーモニープロジェクト-scaled.jpg",
+    "title": "【10/25(日)】HEALING HARMONY PROJECT ブロードウェイ・ミュージカル・コンサート@七尾市【要申込】 | いしかわスタイル",
+    "description": "2026年10月25日(日)、能登演劇堂にて「HEALING HARMONY PROJECT ブロードウェイ・ミュージカル・コンサート」が開催されます。由水南氏によるステージです。",
+    "site": "いしかわスタイル"
+   }
+  },
+  {
+   "text": "石川県立自然史資料館が20周年。令和8年度秋季特別展「国立民族学博物館コレクション 世界のかわいい衣装」が県の10月イベント一覧に載っている",
+   "note": "秋に県内の展示を探す人向け",
+   "kind": "催し",
+   "area": null,
+   "start": null,
+   "end": null,
+   "source": "https://www.pref.ishikawa.lg.jp/cgi-bin/event_cal_multi/calendar.cgi?type=2&year=2026&month=10",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": null,
+   "og": {
+    "image": null,
+    "title": "イベント情報 | 石川県ホームページ",
+    "description": null,
+    "site": null
+   }
+  },
+  {
+   "text": "山中温泉観光協会に、秋の催し「YAMANAKA花回廊 Part22」の案内が出ている",
+   "note": "山中温泉の秋の催しを探す人は日程を出典で確認",
+   "kind": "話題",
+   "area": "加賀市",
+   "start": null,
+   "end": null,
+   "source": "https://www.yamanaka-spa.or.jp/event/2142",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "加賀",
+   "og": {
+    "image": null,
+    "title": "YAMANAKA花回廊 Part22 – 山中温泉",
+    "description": "山中温泉観光協会のサイトです。開湯1300年の歴史と豊かな自然、文人墨客が愛した情緒あふれる温泉地です。",
+    "site": null
+   }
+  },
+  {
+   "text": "週末金沢が、金沢の海鮮スポット「近江町市場」と「金沢港いきいき魚市」を朝食・ランチで比べる記事を出した",
+   "note": "金沢で海鮮を食べに行く先を選びたい人向け",
+   "kind": "話題",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://www.weekend-kanazawa.com/entry/vs_ichibamatome",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/01556aaf632bb70d23c026d3c07e293c5c8d661f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fw%2Fweekendkanazawa%2F20261002%2F20261002155643.jpg",
+    "title": "【金沢・海鮮】「近江町市場」vs「金沢港いきいき魚市」 朝食・ランチで行くならどっち？【地元編集部厳選】 - 週末、金沢。",
+    "description": "金沢旅行や週末のお出かけで絶対に外せないのが「絶品海鮮」。 実は、金沢市内には、「近江町市場」と「金沢港いきいき魚市」の2つがあります。 どちらに行けばいいか迷ってしまう人に向けて、2つのスポットの…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "金沢旅物語に「金沢芸妓のほんものの芸にふれる旅2026-27」の案内が出ている",
+   "note": "金沢の芸妓の芸を体験したい人の旅の入口",
+   "kind": "話題",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://www.kanazawa-kankoukyoukai.or.jp/event/detail_50315.html",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": null,
+    "title": "金沢芸妓のほんものの芸にふれる旅2026-27",
+    "description": "藩政期から受け継がれる伝統文化が数多く息づく金沢には、ひがし・にし・主計町の3つの茶屋街があり、約40名の芸妓が伝統のおもてなしの文化を継承しています。一見さんお断りのお茶屋のお座敷で、芸妓のおもて…",
+    "site": "金沢市観光公式サイト"
+   }
+  },
+  {
+   "text": "金沢市広坂に、韓国出身のオーナーが手掛ける韓国カフェ＆バー「cafe&bar ONDO KANAZAWA」が7月14日にオープンした。昼はスイーツとドリンク、夜はオリジナルカクテル",
+   "note": "21世紀美術館のすぐそばで、昼も夜も使える韓国カフェができた",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": "2026-07-14",
+   "end": "2026-07-14",
+   "source": "https://www.weekend-kanazawa.com/entry/ondo-kanazawa?utm_source=feed",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/361e2e2e1e736b1b67a5cdc0269db41118d40060/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20260930%2F20260930221120.jpg",
+    "title": "【金沢】可愛すぎる♡韓国カフェ＆バー「cafe&bar ONDO KANAZAWA」がオープン！夜カフェにもおすすめ【NEW OPEN】 - 週末、金沢。",
+    "description": "7月14日、金沢市広坂に「cafe&bar ONDO KANAZAWA（オンド カナザワ）」がオープン！ 韓国出身のオーナーが手掛ける注目の韓国カフェで、昼はスイーツとドリンクを楽しめるカフェとして…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "加賀市山代温泉の「Cafe and Bar Cucuri」が5月初めにリニューアルオープン。温泉街の町家を改装し、北陸のクラフトビールや地酒、北陸の食材を使ったおつまみが加わった",
+   "note": "温泉街の散策の途中に寄れる、北陸らしいカフェバー",
+   "kind": "スポット",
+   "area": "加賀市",
+   "start": null,
+   "end": null,
+   "source": "https://www.weekend-kanazawa.com/entry/cucuri",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "加賀",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/7b170a448401cf9e7a4f391c18fc3ea27e7666db/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fw%2Fweekendkanazawa%2F20240715%2F20240715223352.jpg",
+    "title": "【山代温泉】「Cafe and Bar Cucuri」がオープン！北陸のクラフトビールや創意あふれるオシャレおつまみを散策がてら楽しみたい♪【NEW OPEN…",
+    "description": "5月初め、加賀市山代温泉に「Cafe and Bar Cucuri（カフェアンドバー ククリ）」がリニューアルオープン！ 北陸のクラフトビールや地酒に加え、北陸の食材を使った個性溢れるおつまみメニュ…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "金沢市木倉町に居酒屋「旬肴みかど」が2026年7月15日にオープンした",
+   "note": "木倉町で飲む店の選択肢が増えた",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": "2026-07-15",
+   "end": "2026-07-15",
+   "source": "https://www.kanazawabiyori.com/spotlist",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢"
+  },
+  {
+   "text": "野々市市にからあげ専門店「鶏笑 野々市店」がオープンした。ムネ肉のからあげやチキン南蛮が味わえる",
+   "note": "野々市でからあげを買って帰りたい人に新しい一軒",
+   "kind": "スポット",
+   "area": "野々市市",
+   "start": null,
+   "end": null,
+   "source": "https://www.weekend-kanazawa.com/entry/torisyo-nonoichi?utm_source=feed",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "加賀",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/f1bc510f7517fac83775b840dc096c4f2fff75cc/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20260928%2F20260928172816.jpg",
+    "title": "【野々市】からあげ専門店「鶏笑 野々市店」がオープン！ムネ肉のからあげやチキン南蛮が美味すぎる♡【NEW OPEN】 - 週末、金沢。",
+    "description": "9月14日、野々市市若松町に「鶏笑 野々市店」がオープン！ プリッとジューシーな看板メニューのムネ肉からあげを筆頭に、チキン南蛮やとり天など、揚げたての絶品からあげが単品やお弁当のテイクアウトで楽し…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "金沢に朝ごはん専門店「けれんしあ。」がオープンした。炭火焼きの魚と炊きたて土鍋ごはんの朝定食を出す",
+   "note": "朝の金沢で和の定食を選べる新しい店",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://www.weekend-kanazawa.com/entry/querencia?utm_source=feed",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/3a5e30d23279a9f964ada7a51da18dc5e377ce4e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20260925%2F20260925172958.jpg",
+    "title": "【金沢】朝ごはん専門店「けれんしあ。」がオープン！炭火焼きの魚と炊きたて土鍋ごはんの朝定食が最高でした♡ 【NEW OPEN】 - 週末、金沢。",
+    "description": "8月1日、金沢市野町に「けれんしあ。」がオープン！ 炭火で香ばしく焼き上げた魚と土鍋でふっくらと炊き上げたツヤツヤのごはんの、丁寧に作られた朝ごはんが味わえるお店です♡ まるで旅館のような、ゆったり…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "金沢市増泉に「ハルビン串焼き・中華」がオープンした。昼は中華ランチ、夜は串焼き",
+   "note": "昼と夜で違う使い方ができる新しい中華の店",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://www.weekend-kanazawa.com/entry/harubin?utm_source=feed",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/f2c191af5801e70b3405b46183e6be03dae27e1a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20260928%2F20260928105637.jpg",
+    "title": "【金沢】中国旅行気分を味わえる♪「ハルビン串焼き・中華」が増泉にオープン！ 昼は満腹中華ランチ、夜は本場の串焼きを堪能【NEW OPEN】 - 週末、金沢。",
+    "description": "8月8日、金沢市増泉に「ハルビン串焼き・中華」がオープンしました！ 昼はボリューム満点の中華ランチ、夜は中国で親しまれている中華串焼きを楽しめるお店です。 今回、中華串焼きを食べるのが初めてのライタ…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "10/23に金沢市八日市でハワイ料理の「Aloha Led Cafe」がオープン予定",
+   "note": "金沢でハワイ料理を食べられる新しい店の開店予定日",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "source": "https://ishikawa-style.com/ishikawa-newopen2026/",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "http://ishikawa-style.com/wp-content/uploads/2026/01/Image20260108141031.png",
+    "title": "10/9更新【2026年最新版】石川県の新店・リニューアル情報まとめ｜金沢・加賀・能登の注目スポットをチェック！ | いしかわスタイル",
+    "description": "石川県内（金沢市・加賀市・白山市・能美市・小松市など）で2026年にオープン・リニューアルした店舗情報を月別にわかりやすくまとめました。最新の開店情報をチェックして、週末のお出かけや旅行プランにぜひ…",
+    "site": "いしかわスタイル"
+   }
+  },
+  {
+   "text": "山中温泉で「山中温泉スイーツめぐり」が10/1(木)〜3/31(水)の期間で開催中",
+   "note": "長い期間で温泉街のスイーツを巡れる企画",
+   "kind": "催し",
+   "area": "加賀市",
+   "start": "2026-10-01",
+   "end": "2027-03-31",
+   "source": "https://ishikawa-style.com/yamanakasweets-20261001/",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "加賀",
+   "og": {
+    "image": "https://ishikawa-style.com/wp-content/uploads/2026/10/7f3ae038e1fa25bac9c2f493d9a23bc6_page-0001.jpg",
+    "title": "【10/1(木)～3/31(水)】山中温泉スイーツめぐり@山中温泉 | いしかわスタイル",
+    "description": "2026年10月1日(木)から2027年3月31日(水)まで、加賀市の山中温泉にて「YAMANAKAスイーツめぐり 秋冬」が開催されます。お得なクーポン券を使って、お好きなスイーツを3つ選んで楽しめ…",
+    "site": "いしかわスタイル"
+   }
+  },
+  {
+   "text": "「第53回石川の技能まつり」が10/18(日)と10/25(日)に金沢市・白山市で開催される",
+   "note": "日程が2日に分かれているので、行く日を決めたい人向け",
+   "kind": "催し",
+   "area": "金沢市",
+   "start": "2026-10-18",
+   "end": "2026-10-25",
+   "source": "https://ishikawa-style.com/skill-fes-20261018/",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://ishikawa-style.com/wp-content/uploads/2026/10/a947a4c0-7630-46e6-9dd8-9c40626ebba7-TICKET.file1_tk-第53回石川の技能まつりチラシ-4c2a5f-1-1.png",
+    "title": "【10/18(日),10/25(日)】第53回石川の技能まつり@金沢市・白山市 | いしかわスタイル",
+    "description": "2026年10月18日(日)、10月25日(日)の2日間、ポリテクセンター石川およびイオンモール白山にて「第53回石川の技能まつり」が開催されます。モノづくり体験や技能実演などが行われます。",
+    "site": "いしかわスタイル"
+   }
+  },
+  {
+   "text": "白山市で10/24(土)に「熊本応援ジビエ食事会」が開かれる。要申込",
+   "note": "申込が必要な食のイベントの予定日",
+   "kind": "話題",
+   "area": "白山市",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "source": "https://ishikawa-style.com/gibier-20261024/",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "加賀",
+   "og": {
+    "image": null,
+    "title": "【10/24(土)】熊本応援ジビエ食事会@白山市【要申込】 | いしかわスタイル",
+    "description": "10月24日(土)、山立会食堂にて「熊本応援ジビエ食事会」が開催されます。熊本県産のイノシシをメインにしたコース料理を味わいながら熊本を応援できるイベントとのことです。",
+    "site": "いしかわスタイル"
+   }
+  },
+  {
+   "text": "羽咋市が縁結びイベント「HAKUI2026」の開催を発表した",
+   "note": "市が主催する出会いの場を探している人向け",
+   "kind": "催し",
+   "area": "羽咋市",
+   "start": null,
+   "end": null,
+   "source": "http://www.city.hakui.lg.jp/soshiki/shiminfukushibu/kodomo/10_1/7380.html",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "能登",
+   "og": {
+    "image": "http://www.city.hakui.lg.jp/material/images/group/26/ennmusubi20261128.png",
+    "title": "縁結びイベントを開催します！！（HAKUI2026）|羽咋市公式ホームページ",
+    "description": "第一回 「海辺のワイナリー ソムリエ講座＆レストランParty」【日時】2026年11月28日（土曜日） 当日のタイムスケジュール 時間 女性 男性 11：30 受付 （金沢駅西広場団体バス乗降場）…",
+    "site": null
+   }
+  },
+  {
+   "text": "中能登町春木地区でトキが放鳥された",
+   "note": "県内の里山でトキが野に放たれた",
+   "kind": "話題",
+   "area": "中能登町",
+   "start": null,
+   "end": null,
+   "source": "https://www.town.nakanoto.ishikawa.jp/soshiki/nourin/6655.html",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "能登",
+   "og": {
+    "image": "http://www.town.nakanoto.ishikawa.jp/material/images/group/9/tokimikata-01.png",
+    "title": "中能登町春木地区でトキが放鳥されました！|中能登町",
+    "description": "令和8年10月7日に中能登町春木地区において本州2回目となるトキが放鳥され、9羽のトキが中能登の空へ羽ばたきました。今後は中能登町でのトキ定着に向けて、分布の把握や今後の野生復帰に活用するため、皆様…",
+    "site": null
+   }
+  },
+  {
+   "text": "「内村文化祭'26 旅姿」の初の石川県公演が11月7日・8日に実現する",
+   "note": "石川で初めて開かれる公演の日程",
+   "kind": "催し",
+   "area": null,
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "source": "https://www.weekend-kanazawa.com/entry/uchimura_bunkasai26?utm_source=feed",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": null,
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/99ca4bc5cd8f955cb8900d819e55932106345bf3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fw%2Fweekendkanazawa%2F20261001%2F20261001170200.jpg",
+    "title": "【内村光良さん×勢登健雄さんインタビュー】「内村文化祭'26 旅姿」11月7・8日に初の石川県公演が実現！ - 週末、金沢。",
+    "description": "お笑い芸人・内村光良さんが作・演出・出演を務めるライブ「内村文化祭」。 コント、漫談、歌、ダンス、劇など、内村さんが\"今やりたいこと\"を詰め込んだ至高のエンターテイメントが、10回目となる今年、つい…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "のとじま（能登島観光）の案内で、能登島ガラス美術館の展示が10月3日から始まったと告知されている",
+   "note": "能登島に出かける人が立ち寄り先に入れられる展示",
+   "kind": "催し",
+   "area": "七尾市",
+   "start": "2026-10-03",
+   "end": "2026-10-03",
+   "source": "https://www.notojima.org/information/12132.html",
+   "instagram": null,
+   "written": "2026-10-11",
+   "pick": false,
+   "region": "能登",
+   "og": {
+    "image": null,
+    "title": "【能登島ガラス美術館展示】10月3日から | ひょっこり能登島 島の旅 | 能登島観光協会オフィシャルサイト",
+    "description": null,
+    "site": null
+   }
+  },
   {
    "text": "小松市津波倉町のコスモス畑で、約1.5ヘクタールに約100万本のコスモスが満開。10月10日から摘み取りができ、ハサミも用意。国道8号線粟津ICを降りてすぐ、無料臨時駐車場あり（約40台）、トイレなし（→ 秋の花を見て摘める、小松の休耕地のコスモス畑） ［Threads: https://www.threads.com/@li.liy.11/post/DeSyl8yDcVg］",
    "note": "",
