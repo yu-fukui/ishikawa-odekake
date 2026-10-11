@@ -1,11 +1,11 @@
 {
   "リポジトリ": "yu-fukui/ishikawa-odekake",
-  "作成時刻": "2026-10-11 01:18 JST",
+  "作成時刻": "2026-10-11 20:01 JST",
   "今日": "2026-10-11",
   "状態": "ok",
   "明日のキュー": {
     "対象日": "2026-10-12",
-    "本数": 11,
+    "本数": 12,
     "予定本数": 10,
     "足りない": 0,
     "時刻": [
@@ -13,6 +13,7 @@
       "08:00",
       "10:00",
       "12:00",
+      "13:00",
       "14:00",
       "15:00",
       "17:00",
@@ -59,6 +60,16 @@
         "時刻": "12:00",
         "1行目": "11月の週末の7日間、兼六園と金沢城で「四季物語～秋の段～」のライトアップがある",
         "文字数": 94,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": false
+      },
+      {
+        "id": "p-2026101113-kobi",
+        "時刻": "13:00",
+        "1行目": "小松市今江町に、親子で始めた小さな喫茶店「喫茶コビト」が8月3日にグランドオープ",
+        "文字数": 101,
         "本文にリンク": false,
         "続きにリンク": true,
         "出典元あり": true,
@@ -181,7 +192,7 @@
       },
       "最後の成功": "2026-10-11 00:55 JST",
       "今日走ったか": true,
-      "24時間の実行": 2,
+      "24時間の実行": 1,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -206,14 +217,14 @@
       "ファイル": "health-snapshot.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-11 01:18 JST",
+        "時刻": "2026-10-11 20:00 JST",
         "結果": "in_progress",
-        "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38067149994"
+        "きっかけ": "workflow_run",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38134013377"
       },
-      "最後の成功": "2026-10-11 01:07 JST",
+      "最後の成功": "2026-10-11 01:18 JST",
       "今日走ったか": true,
-      "24時間の実行": 5,
+      "24時間の実行": 4,
       "24時間の失敗": 0,
       "判定": "実行中"
     },
@@ -242,15 +253,19 @@
       "ファイル": "neta-collect.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-11 00:02 JST",
+        "時刻": "2026-10-11 08:13 JST",
         "結果": "success",
-        "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38061994590"
+        "きっかけ": "workflow_dispatch",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38094261942"
       },
-      "最後の成功": "2026-10-11 00:02 JST",
+      "最後の成功": "2026-10-11 08:13 JST",
       "今日走ったか": true,
-      "24時間の実行": 2,
-      "24時間の失敗": 0,
+      "24時間の実行": 4,
+      "24時間の失敗": 1,
+      "最後の失敗": {
+        "時刻": "2026-10-11 08:02 JST",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38093627250"
+      },
       "判定": "成功"
     },
     {
@@ -258,14 +273,14 @@
       "ファイル": "odekake.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-10 23:54 JST",
+        "時刻": "2026-10-11 11:30 JST",
         "結果": "success",
         "きっかけ": "push",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38061458219"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38105371232"
       },
-      "最後の成功": "2026-10-10 23:54 JST",
-      "今日走ったか": false,
-      "24時間の実行": 2,
+      "最後の成功": "2026-10-11 11:30 JST",
+      "今日走ったか": true,
+      "24時間の実行": 6,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -274,15 +289,19 @@
       "ファイル": "test.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-10 23:54 JST",
+        "時刻": "2026-10-11 11:33 JST",
         "結果": "success",
         "きっかけ": "push",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38061458210"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38105558497"
       },
-      "最後の成功": "2026-10-10 23:54 JST",
-      "今日走ったか": false,
-      "24時間の実行": 18,
-      "24時間の失敗": 0,
+      "最後の成功": "2026-10-11 11:33 JST",
+      "今日走ったか": true,
+      "24時間の実行": 16,
+      "24時間の失敗": 1,
+      "最後の失敗": {
+        "時刻": "2026-10-11 08:01 JST",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38093580027"
+      },
       "判定": "成功"
     },
     {
@@ -306,15 +325,15 @@
       "ファイル": "threads-compose.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-11 01:07 JST",
+        "時刻": "2026-10-11 20:00 JST",
         "結果": "success",
-        "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38066395861"
+        "きっかけ": "repository_dispatch",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38133991345"
       },
-      "最後の成功": "2026-10-11 01:07 JST",
+      "最後の成功": "2026-10-11 20:00 JST",
       "今日走ったか": true,
       "24時間の実行": 3,
-      "24時間の失敗": 2,
+      "24時間の失敗": 1,
       "最後の失敗": {
         "時刻": "2026-10-11 00:03 JST",
         "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38062042027"
@@ -326,14 +345,14 @@
       "ファイル": "threads-post.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-11 01:10 JST",
+        "時刻": "2026-10-11 20:00 JST",
         "結果": "success",
         "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38066564626"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38133986601"
       },
-      "最後の成功": "2026-10-11 01:10 JST",
+      "最後の成功": "2026-10-11 20:00 JST",
       "今日走ったか": true,
-      "24時間の実行": 98,
+      "24時間の実行": 100,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -355,7 +374,7 @@
       },
       "最後の成功": "2026-10-10 01:58 JST",
       "今日走ったか": true,
-      "24時間の実行": 2,
+      "24時間の実行": 1,
       "24時間の失敗": 1,
       "最後の失敗": {
         "時刻": "2026-10-11 00:51 JST",
@@ -372,14 +391,14 @@
       "ファイル": "pages-build-deployment",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-11 01:08 JST",
+        "時刻": "2026-10-11 19:01 JST",
         "結果": "success",
         "きっかけ": "dynamic",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38066430719"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38130437483"
       },
-      "最後の成功": "2026-10-11 01:08 JST",
+      "最後の成功": "2026-10-11 19:01 JST",
       "今日走ったか": true,
-      "24時間の実行": 48,
+      "24時間の実行": 57,
       "24時間の失敗": 0,
       "判定": "成功"
     }
