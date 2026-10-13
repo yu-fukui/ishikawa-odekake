@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       post_id:
-        description: "返信を読みたい投稿の ID（数字）"
+        description: "返信を読みたい投稿の ID（数字）。何本かならカンマか空白で区切る"
         required: true
 
 jobs:
