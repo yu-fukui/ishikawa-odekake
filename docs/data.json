@@ -2,14 +2,14 @@
  "updated": "2026-10-15",
  "items": [
   {
-   "text": "金沢市木倉町にカレーの店「O Spice Massive Rock」が10月14日にオープン",
-   "note": "木倉町でカレーを食べたい人向けの新店",
+   "text": "10月14日(水)、金沢市木倉町にカレーの店「O-SPICE Massive Rock（オースパイス マッシヴロック）」がオープン。10/14〜10/20は17:00〜深夜、10/24からは昼11:00〜15:00（L.O.14:30）・夜17:00〜23:00（L.O.22:00）",
+   "note": "木倉町でカレーを食べたい人向けの新店。10/13 20時に投稿済み。代表が送ったお店の Instagram 投稿の画面から",
    "kind": "スポット",
    "area": "金沢市",
    "start": "2026-10-14",
-   "end": "2026-10-14",
+   "end": "2026-10-20",
    "source": "https://www.instagram.com/o_spice_massiverock/",
-   "instagram": null,
+   "instagram": "https://www.instagram.com/o_spice_massiverock/",
    "written": "2026-10-15",
    "pick": false,
    "region": "金沢",
@@ -325,7 +325,13 @@
    "instagram": null,
    "written": "2026-10-15",
    "pick": false,
-   "region": "金沢"
+   "region": "金沢",
+   "og": {
+    "image": "https://www.kanazawabiyori.com/contents/wp-content/uploads/2025/10/2ef1dba354d6b184bb0c700ece0e8c2e.jpg",
+    "title": "【2026年】石川県の紅葉スポット9選｜加賀・山中温泉から能登のイチョウ並木まで見ごろまとめ",
+    "description": "2026年の秋に訪れたい石川県の紅葉スポット9か所を、見ごろ時期つきでご紹介します。山中温泉の鶴仙渓や那谷寺、兼六園、白山白川郷ホワイトロードのドライブ、宝達志水町・東野のイチョウ並木まで。料金や駐…",
+    "site": "金沢日和"
+   }
   },
   {
    "text": "カナミー金沢が、金沢市二口町の「沖縄そば 山原（やんばる）」を紹介している",
@@ -353,17 +359,12 @@
    "area": "七尾市",
    "start": null,
    "end": null,
-   "source": "https://www.weekend-kanazawa.com/entry/aoao-notojima?utm_source=feed",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "能登",
-   "og": {
-    "image": "https://cdn.image.st-hatena.com/image/scale/264e854ebcee75266ed714dd8ad04895a815ddcc/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20261002%2F20261002162930.jpg",
-    "title": "【七尾・能登島】1日1組限定！完全プライベート宿「AOAO NOTOJIMA」がオープン！里山と里海をひとりじめできる贅沢ステイ♡【NEW OPEN】 - 週…",
-    "description": "9月5日、七尾市能登島に「AOAO NOTOJIMA」がオープン！ 海と森に囲まれた約2,000坪もの広大な敷地をまるごと独り占めできちゃう、1日1組限定の一棟貸しプライベートヴィラができました。…",
-    "site": "週末、金沢。"
-   }
+   "og": null
   },
   {
    "text": "能美市佐野町に、2026年3月にオープンしたカフェ「cafe evanSE note」がある。白川郷で栽培されたそば粉を使ったガレットのランチが食べられる",
@@ -372,17 +373,12 @@
    "area": "能美市",
    "start": null,
    "end": null,
-   "source": "https://www.kanazawabiyori.com/spot/spot_134139.html",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "加賀",
-   "og": {
-    "image": "https://www.kanazawabiyori.com/contents/wp-content/uploads/2026/06/evansenote.jpg",
-    "title": "cafe evanSE note",
-    "description": "石川県能美市佐野町に、2026年3月にオープンした『cafe evanSE note』。オープンからわずか数ヶ月で口コミが広がり、フランス・ブルターニュ地方の郷土料理「ガレット」を求めて多くの人が足…",
-    "site": "金沢日和"
-   }
+   "og": null
   },
   {
    "text": "6月8日、金沢市清川町にかき氷専門店「つぼみ南」がオープンした。料亭「穂濤」の離れを間借りした店で、当初は秋頃までの期間限定だったが、リニューアルのうえ営業期間を延長している",
@@ -391,17 +387,12 @@
    "area": "金沢市",
    "start": "2026-06-08",
    "end": "2026-06-08",
-   "source": "http://tsubomi-kanazawa.jp/306",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "金沢",
-   "og": {
-    "image": null,
-    "title": "かき氷専門店「つぼみ南」を6月8日(月)にオープン｜つぼみ｜金沢市柿木畠の和カフェ",
-    "description": "本葛と本蕨、抹茶パフェ、白玉あんみつなど素材にこだわった本格和スイーツをご提供致します。",
-    "site": "つぼみ｜金沢市柿木畠の和カフェ"
-   }
+   "og": null
   },
   {
    "text": "10月16日(金)、金沢フォーラス3階に「Amilige（アミリージュ）金沢フォーラス店」がオープン予定",
@@ -410,20 +401,7 @@
    "area": "金沢市",
    "start": "2026-10-16",
    "end": "2026-10-16",
-   "source": "https://www.forus.co.jp/kanazawa（Amilige",
-   "instagram": null,
-   "written": "2026-10-12",
-   "pick": false,
-   "region": "金沢"
-  },
-  {
-   "text": "10月14日、金沢市木倉町にカレーの店「O Spice Massive Rock」がオープン予定",
-   "note": "木倉町でカレーを食べたい人向けの新店）（2026-10-12 運用部・石川担当：出典が Instagram のプロフィールだけで中身が読めず、開店日を確かめられない。公式の投稿か記事が見つかるまで投稿に使わない",
-   "kind": "スポット",
-   "area": "金沢市",
-   "start": "2026-10-14",
-   "end": "2026-10-14",
-   "source": "https://www.instagram.com/p/Dd54ZhbJaAH/",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
@@ -437,17 +415,12 @@
    "area": "金沢市",
    "start": "2026-11-02",
    "end": "2026-11-02",
-   "source": "https://www.forus.co.jp/kanazawa",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "金沢",
-   "og": {
-    "image": null,
-    "title": "金沢フォーラス",
-    "description": "金沢フォーラスのホームページ。金沢フォーラスのショップのご紹介や各種イベント情報などがご覧いただけます。",
-    "site": "フォーラス"
-   }
+   "og": null
   },
   {
    "text": "10/23(金)〜10/25(日)、アル・プラザ小松で「BON BON OYATSU MARKET in KOMATSU」が開かれる",
@@ -456,17 +429,12 @@
    "area": "小松市",
    "start": "2026-10-23",
    "end": "2026-10-25",
-   "source": "https://ishikawa-style.com/bonbon-oyatsu-20261023/",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "加賀",
-   "og": {
-    "image": "https://ishikawa-style.com/wp-content/uploads/2026/10/831398247_1432672205477028_8260959906916662127_n.jpg",
-    "title": "【10/23(金)～10/25(日)】BON BON OYATSU MARKET in KOMATSU@アル・プラザ小松 | いしかわスタイル",
-    "description": "2026年10月23日(金)から10月25日(日)まで、小松市のアル・プラザ小松店にてBON BON OYATSU MARKET in KOMATSUが開催されます。日替わりでおやつのお店が出店しま…",
-    "site": "いしかわスタイル"
-   }
+   "og": null
   },
   {
    "text": "10/24(土)・25(日)、中能登町のラポールよしかわで「秋のココロヲドル ココロルマーケット」が開かれる",
@@ -475,17 +443,12 @@
    "area": "中能登町",
    "start": "2026-10-24",
    "end": "2026-10-24",
-   "source": "https://ishikawa-style.com/kokororu-20261024/",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "能登",
-   "og": {
-    "image": "https://ishikawa-style.com/wp-content/uploads/2026/10/814022003_18114256174964683_5891886039274451685_n.webp",
-    "title": "【10/24(土),10/25(日)】秋のココロヲドル ココロルマーケット in ラポールよしかわ@中能登町 | いしかわスタイル",
-    "description": "2026年10月24日(土)、10月25日(日)、ラポールよしかわにて「秋のココロヲドル ココロルマーケット in ラポールよしかわ」が開催されます。ハンドメイド雑貨やグルメ、ワークショップが楽しめ…",
-    "site": "いしかわスタイル"
-   }
+   "og": null
   },
   {
    "text": "10/25(日)、輪島市で「SAKEBEER NOTO INTERNATIONAL 2026」が開かれる",
@@ -494,17 +457,12 @@
    "area": "輪島市",
    "start": "2026-10-25",
    "end": "2026-10-25",
-   "source": "https://ishikawa-style.com/sakebeer-noto-20261025/",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "能登",
-   "og": {
-    "image": "https://ishikawa-style.com/wp-content/uploads/2026/10/831504851_18099588788388085_6385033902082181374_n.jpg",
-    "title": "【10/25(日)】SAKEBEER NOTO INTERNATIONAL 2026@輪島市 | いしかわスタイル",
-    "description": "2026年10月25日(日)、輪島KABULET前通りにて「SAKEBEER NOTO INTERNATIONAL 2026」が開催されます。世界のビールやお酒、料理、音楽が集まり、インターナショナ…",
-    "site": "いしかわスタイル"
-   }
+   "og": null
   },
   {
    "text": "10/24(土)、和倉温泉お祭り会館で「ふれあいマルシェ in わくら」が開かれる",
@@ -513,17 +471,12 @@
    "area": "七尾市",
    "start": "2026-10-24",
    "end": "2026-10-24",
-   "source": "https://ishikawa-style.com/fureaimarche-20261024/",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "能登",
-   "og": {
-    "image": "https://ishikawa-style.com/wp-content/uploads/2026/10/20177900-9a5f-408e-9b67-89bc8373a77a-TICKET.file1_tk-20261024ふれあいマルシェ-06db83-1.png",
-    "title": "【10/24(土)】ふれあいマルシェ in わくら@和倉温泉お祭り会館 | いしかわスタイル",
-    "description": "2026年10月24日(土)、和倉温泉お祭り会館で「ふれあいマルシェ in わくら」が開催されます。ハンドメイド作品やグルメ、ワークショップが集まる地域のマルシェです。田鶴浜組子体験なども楽しめます。",
-    "site": "いしかわスタイル"
-   }
+   "og": null
   },
   {
    "text": "金沢旅物語に「兼六園雪吊り作業」の案内が出ている",
@@ -532,17 +485,12 @@
    "area": "金沢市",
    "start": null,
    "end": null,
-   "source": "https://www.kanazawa-kankoukyoukai.or.jp/event/detail_50425.html",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "金沢",
-   "og": {
-    "image": null,
-    "title": "兼六園雪吊り作業",
-    "description": "日本海側特有の湿った雪の重みで枝が折れないようにするため、雪吊り作業が金沢市内の至る所で行われます。兼六園では、11月1日に唐崎松を皮切りに、12月中旬頃まで雪吊り作業が行われます。この時期ならでは…",
-    "site": "金沢市観光公式サイト"
-   }
+   "og": null
   },
   {
    "text": "金沢旅物語に「金沢城公園・玉泉院丸庭園ライトアップ」の案内が出ている",
@@ -551,17 +499,12 @@
    "area": "金沢市",
    "start": null,
    "end": null,
-   "source": "https://www.kanazawa-kankoukyoukai.or.jp/event/detail_50335.html",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "金沢",
-   "og": {
-    "image": null,
-    "title": "金沢城公園・玉泉院丸庭園ライトアップ",
-    "description": "金沢城公園では、毎週土曜日と指定日に夜間開園とライトアップを実施しています。加賀藩代々の藩主たちが愛でた大名庭園である玉泉院丸庭園では、夕焼けから宵、そして夜更けの月見の庭へと移り変わる「三つの灯り…",
-    "site": "金沢市観光公式サイト"
-   }
+   "og": null
   },
   {
    "text": "金沢市の前田土佐守家資料館で、秋季企画展「藩主と一門～幕末の加賀前田家と前田土佐守家～」（近世史料館合同展示）が開催される",
@@ -570,17 +513,12 @@
    "area": "金沢市",
    "start": null,
    "end": null,
-   "source": "https://www4.city.kanazawa.lg.jp/event/32133.html",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "金沢",
-   "og": {
-    "image": "https://www4.city.kanazawa.lg.jp/material/images/group/104/20261010omote.jpg",
-    "title": "前田土佐守家資料館 秋季企画展【近世史料館合同展示】藩主と一門～幕末の加賀前田家と前田土佐守家～開催！|金沢市公式ホームページ いいね金沢",
-    "description": "近年、令和元年の天皇家、令和5年の徳川宗家(18代→19代)など、ビッグネームの「代替わり」が続いたこともあり、「家」というものが注目されているように思われます。 加賀前田家も徳川宗家と同じ令和5年…",
-    "site": null
-   }
+   "og": null
   },
   {
    "text": "金沢市のイベント情報に、企画展「粟崎を愛した偉人－海と船と木谷物語」が出ている",
@@ -589,17 +527,12 @@
    "area": "金沢市",
    "start": null,
    "end": null,
-   "source": "https://www4.city.kanazawa.lg.jp/event/30844.html",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "金沢",
-   "og": {
-    "image": "https://www4.city.kanazawa.lg.jp/material/images/group/104/kidani0901.jpg",
-    "title": "企画展 「粟崎を愛した偉人－海と船と木谷物語」|金沢市公式ホームページ いいね金沢",
-    "description": "江戸時代から近代にかけて、粟崎に大きな足跡を残した木谷一族。その栄光と業績を粟崎ゆかりの資料とともに紹介します。",
-    "site": null
-   }
+   "og": null
   },
   {
    "text": "11/15(日)、普段は見られない発電所の裏側へ行く無料の日帰りバスツアーがある。再生可能エネルギーを学ぶ内容",
@@ -608,17 +541,12 @@
    "area": null,
    "start": "2026-11-15",
    "end": "2026-11-15",
-   "source": "https://www.kanazawabiyori.com/event/event_137097.html",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": null,
-   "og": {
-    "image": "https://www.kanazawabiyori.com/contents/wp-content/uploads/2026/09/a1b1a73e19edf58a247e3405d3454ad6.jpg",
-    "title": "【11/15(日)】普段は見られない発電所の裏側へ。無料の日帰りバスツアーで再生可能エネルギーを学ぼう。",
-    "description": "「電気ってどうやって作られているの？」「地球にやさしいエネルギーってなに？」。そんな疑問を、親子で楽しく学べる「親子で学ぼう再生可能エネルギーツアー（能登コース）」が、2026年11月15日(日)に…",
-    "site": "金沢日和"
-   }
+   "og": null
   },
   {
    "text": "金沢市が「親子収穫体験ツアーin河北潟」の参加者を募集中",
@@ -627,17 +555,12 @@
    "area": "金沢市",
    "start": null,
    "end": null,
-   "source": "https://www4.city.kanazawa.lg.jp/soshikikarasagasu/nogyosuisanshinkoka/boshujoho/event/30269.html",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "金沢",
-   "og": {
-    "image": "http://www4.city.kanazawa.lg.jp/material/images/group/33/kahokugata.jpg",
-    "title": "親子収穫体験ツアーin河北潟 参加者募集中！|金沢市公式ホームページ いいね金沢",
-    "description": "河北潟の農産物や地域の魅力を再発見してもらうため、親子による白菜の収穫体験、牧場見学、河北潟についての座学を行うツアーを開催します！【概 要】日 時 11月21日（土曜日） 09：30～12：00…",
-    "site": null
-   }
+   "og": null
   },
   {
    "text": "「食べログ 居酒屋 百名店 2026」が発表され、石川県からは7店が選ばれた",
@@ -646,17 +569,12 @@
    "area": null,
    "start": null,
    "end": null,
-   "source": "https://ishikawa-style.com/tabelog-izakaya100-2026/",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": null,
-   "og": {
-    "image": "http://ishikawa-style.com/wp-content/uploads/2026/10/1455-1058-8b56e1bb9f37bd8206424c64440a89e5-1200x630-1.webp",
-    "title": "「食べログ 居酒屋 百名店 2026」発表!!~石川県からは7店が選出~ | いしかわスタイル",
-    "description": "9月29日(火)に、食べログより「食べログ 居酒屋 百名店 2026」が発表されました。食べログユーザーから高い評価を集めた居酒屋の名店が対象となり、石川県からは7店が選出されました。",
-    "site": "いしかわスタイル"
-   }
+   "og": null
   },
   {
    "text": "10月18日は「いしかわ文化の日」。加賀市が案内を出している",
@@ -665,17 +583,12 @@
    "area": "加賀市",
    "start": "2026-10-18",
    "end": "2026-10-18",
-   "source": "https://www.city.kaga.ishikawa.jp/ed/bunka_shinko/16624.html",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "加賀",
-   "og": {
-    "image": null,
-    "title": "10月18日は「いしかわ文化の日」です。|加賀市",
-    "description": "いしかわ文化の日とは？石川県では、平成27年4月1日に施行した「いしかわ文化振興条例」において、文化施設を利用したり、文化活動に参加することにより、いしかわの文化をより身近に感じていただけるよう、芸…",
-    "site": null
-   }
+   "og": null
   },
   {
    "text": "かほく市が、かほく四季まつり「かにカニ合戦～海の幸・山の幸まつり～」の模擬店出店者を募集している（事前告知）",
@@ -684,17 +597,12 @@
    "area": "かほく市",
    "start": null,
    "end": null,
-   "source": "https://www.city.kahoku.lg.jp/004/401/d011587.html",
+   "source": null,
    "instagram": null,
    "written": "2026-10-12",
    "pick": false,
    "region": "金沢",
-   "og": {
-    "image": "https://www.city.kahoku.lg.jp/share/imgs/kahoku_400x400.jpg",
-    "title": "【事前告知】かほく四季まつり「かにカニ合戦～海の幸・山の幸まつり～」模擬店出店者募集について",
-    "description": null,
-    "site": "かほく市ホームページ"
-   }
+   "og": null
   },
   {
    "text": "2026年5月15日、金沢駅の金沢百番街Rintoに、コスメ・ビューティーの「MARY QUANT（マリークヮント）」がオープン。営業時間10:00〜20:00。カラフルなコスメやスキンケア、ファッションアイテムを扱う（→ 金沢駅でコスメを見たい人向け） ［公式: https://www.100bangai.co.jp/newshop/］",
