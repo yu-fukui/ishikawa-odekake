@@ -1,6 +1,6 @@
 {
   "リポジトリ": "yu-fukui/ishikawa-odekake",
-  "作成時刻": "2026-10-20 02:23 JST",
+  "作成時刻": "2026-10-20 02:38 JST",
   "今日": "2026-10-20",
   "状態": "要確認",
   "明日のキュー": {
@@ -201,14 +201,14 @@
       "ファイル": "health-snapshot.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 02:23 JST",
+        "時刻": "2026-10-20 02:38 JST",
         "結果": "in_progress",
-        "きっかけ": "workflow_run",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39293695763"
+        "きっかけ": "schedule",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39295852487"
       },
-      "最後の成功": "2026-10-19 20:06 JST",
+      "最後の成功": "2026-10-20 02:23 JST",
       "今日走ったか": true,
-      "24時間の実行": 2,
+      "24時間の実行": 3,
       "24時間の失敗": 0,
       "判定": "実行中"
     },
@@ -385,12 +385,12 @@
       "ファイル": "threads-post.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 02:20 JST",
+        "時刻": "2026-10-20 02:30 JST",
         "結果": "success",
         "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39293244667"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39294694680"
       },
-      "最後の成功": "2026-10-20 02:20 JST",
+      "最後の成功": "2026-10-20 02:30 JST",
       "今日走ったか": true,
       "24時間の実行": 100,
       "24時間の失敗": 0,
@@ -438,15 +438,15 @@
       "有効": true,
       "最後の実行": {
         "時刻": "2026-10-20 02:23 JST",
-        "結果": "waiting",
+        "結果": "success",
         "きっかけ": "dynamic",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39293679924"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39293765953"
       },
-      "最後の成功": "2026-10-20 01:58 JST",
+      "最後の成功": "2026-10-20 02:23 JST",
       "今日走ったか": true,
-      "24時間の実行": 38,
+      "24時間の実行": 39,
       "24時間の失敗": 0,
-      "判定": "実行中"
+      "判定": "成功"
     }
   ],
   "警告": [
