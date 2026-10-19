@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>いしかわおでかけ｜石川の今週末のイベント・新しいお店まとめ</title>
-<meta name="description" content="石川県内の今週末のイベント、開催中の展示やフェア、新しくオープンしたお店を毎朝まとめて更新。市町・日付で探せます。主催者や自治体などの出典つき。">
+<title>いしかわおでかけ｜石川・金沢のおでかけ情報・今週末のイベントと新しいお店</title>
+<meta name="description" content="石川・金沢のおでかけ情報を毎朝まとめて更新。石川県内の今週末のイベント、開催中の展示やフェア、新しくオープンしたお店を毎朝まとめて更新。市町・日付で探せます。主催者や自治体などの出典つき。">
 <link rel="canonical" href="https://ishikawa-odekake.fukui-fukui.com/">
 <meta name="theme-color" content="#1f7a57">
 <link rel="icon" href="favicon.ico?v=ishikawa" sizes="any">
@@ -12,13 +12,16 @@
 <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png?v=ishikawa">
 <link rel="apple-touch-icon" href="apple-touch-icon.png?v=ishikawa">
 <meta property="og:title" content="いしかわおでかけ">
-<meta property="og:description" content="石川のイベント・新スポットを毎朝まとめて更新。Threads @ishikawa._ishikawa のおでかけ情報サイト">
-<meta property="og:image" content="https://ishikawa-odekake.fukui-fukui.com/icon-192.png">
+<meta property="og:description" content="石川のおでかけ情報（イベント・新スポット）を毎朝まとめて更新。Threads @ishikawa._ishikawa のおでかけ情報サイト">
+<meta property="og:image" content="https://ishikawa-odekake.fukui-fukui.com/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://ishikawa-odekake.fukui-fukui.com/">
 <meta property="og:site_name" content="いしかわおでかけ">
 <meta property="og:locale" content="ja_JP">
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://ishikawa-odekake.fukui-fukui.com/#site","name":"いしかわおでかけ","url":"https://ishikawa-odekake.fukui-fukui.com/","inLanguage":"ja","description":"石川県内の今週末のイベントと新しいお店のまとめ","publisher":{"@id":"https://ishikawa-odekake.fukui-fukui.com/#org"}},{"@type":"Organization","@id":"https://ishikawa-odekake.fukui-fukui.com/#org","name":"ふくふくプロジェクト","url":"https://ishikawa-odekake.fukui-fukui.com/about/","logo":"https://ishikawa-odekake.fukui-fukui.com/icon-192.png","sameAs":["https://www.threads.com/@ishikawa._ishikawa","https://ekimae.fukui-fukui.com/"]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://ishikawa-odekake.fukui-fukui.com/#site","name":"いしかわおでかけ","alternateName":["石川おでかけ","石川のおでかけ情報","金沢のおでかけ情報"],"url":"https://ishikawa-odekake.fukui-fukui.com/","inLanguage":"ja","description":"石川県内の今週末のイベントと新しいお店のまとめ","publisher":{"@id":"https://ishikawa-odekake.fukui-fukui.com/#org"}},{"@type":"Organization","@id":"https://ishikawa-odekake.fukui-fukui.com/#org","name":"ふくふくプロジェクト","url":"https://ishikawa-odekake.fukui-fukui.com/about/","logo":"https://ishikawa-odekake.fukui-fukui.com/icon-192.png","sameAs":["https://www.threads.com/@ishikawa._ishikawa","https://ekimae.fukui-fukui.com/"]}]}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500;700;800&display=swap" rel="stylesheet">
@@ -43,7 +46,7 @@
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
-body { margin: 0; background: var(--bg); color: var(--ink); line-height: 1.65;
+body { margin: 0; overflow-wrap: anywhere; background: var(--bg); color: var(--ink); line-height: 1.65;
   font-family: "M PLUS Rounded 1c", "Hiragino Maru Gothic ProN", "Hiragino Sans", system-ui, sans-serif; font-weight: 500;
   padding-bottom: calc(var(--tabbar) + env(safe-area-inset-bottom)); }
 button { font: inherit; color: inherit; }
@@ -147,7 +150,11 @@ main { max-width: 1280px; margin: 0 auto; padding: 18px 16px 40px; }
 .today b { color: var(--accent); }
 .ttl { display: flex; align-items: center; gap: 12px; margin: 6px 0 4px; }
 .ttl .ic { width: 44px; height: 44px; border-radius: 14px; background: var(--main); color: #fff; display: grid; place-items: center; flex: none; transform: rotate(-4deg); }
-.ttl h1 { margin: 0; font-size: clamp(1.05rem, 4.3vw, 1.7rem); font-weight: 800; line-height: 1.3; }
+/* サイト全体の見出し（福井の #159 と同じ。h1 は固定、タブの見出しは h2） */
+.intro { margin: 4px 0 8px; }
+.intro h1 { margin: 0; font-size: .95rem; font-weight: 800; color: var(--main-deep); letter-spacing: .02em; }
+.intro p { margin: 2px 0 0; font-size: .8rem; color: var(--muted); line-height: 1.6; }
+.ttl h2 { margin: 0; font-size: clamp(1.05rem, 4.3vw, 1.7rem); font-weight: 800; line-height: 1.3; }
 .ttl .n { margin-left: auto; font-size: .82rem; font-weight: 700; color: var(--muted); white-space: nowrap; }
 .ttl .n b { font-size: 1.3rem; color: var(--main); margin-right: 2px; }
 .route { height: 10px; margin: 8px 0 4px; background: radial-gradient(circle, var(--main) 2px, transparent 2.5px) 0 50% / 12px 10px repeat-x; opacity: .35; }
@@ -336,26 +343,27 @@ footer a { color: var(--main); font-weight: 700; }
 
 <main>
   <div class="today" id="today"></div>
-  <div class="ttl" id="ttl"><h1>石川の今週末のイベント・新しいお店</h1></div>
+  <div class="intro"><h1>石川・金沢のおでかけ情報</h1><p>今週末のイベント、開催中の展示やフェア、新しくできたお店を、毎朝まとめています。市町・日付で探せます。</p></div>
+  <div class="ttl" id="ttl"><h2>開催中・これからのイベント</h2></div>
   <div class="route" aria-hidden="true"></div>
   <div class="days" id="days" role="group" aria-label="日付で絞る"></div>
   <div class="active" id="active"></div>
   <div id="out"><!--prerender:start-->
 <div class="prerender">
 <h2>開催中・これからの石川のイベント（10月20日時点）</h2>
-<article><h3>金沢ナイトミュージアム2026が7/11〜10/25に開催</h3><p>7月11日（土）〜10月25日（日）・金沢市</p><p>金沢ナイトミュージアム2026が7/11〜10/25に開催。音楽、演劇、映画、ダンスなどのアートプログラムを市内の対象の文化施設で公演する（じゃらん evt_354229 の記載。怪談・マジック・指定日は出典で確かめられないので書かない）</p><p>10/25まで、夜の金沢で芸術に触れる機会が残っている</p><p><a href="https://www.jalan.net/event/evt_354229/event/" rel="noopener">出典</a></p></article>
+<article><h3>金沢ナイトミュージアム2026が7/11〜10/25に開催</h3><p>7月11日（土）〜10月25日（日）・金沢市</p><p>金沢ナイトミュージアム2026が7/11〜10/25に開催。音楽、演劇、映画、ダンスなどのアートプログラムを市内の対象の文化施設で公演する</p><p>10/25まで、夜の金沢で芸術に触れる機会が残っている</p><p><a href="https://www.jalan.net/event/evt_354229/event/" rel="noopener">出典</a></p></article>
 <article><h3>山中温泉スイーツめぐり</h3><p>10月1日（木）〜3月31日（水）・加賀市</p><p>山中温泉で「山中温泉スイーツめぐり」が10/1(木)〜3/31(水)の期間で開催中</p><p>長い期間で温泉街のスイーツを巡れる企画</p><p><a href="https://ishikawa-style.com/yamanakasweets-20261001/" rel="noopener">出典</a></p></article>
-<article><h3>HOTEL AO KANAZAWA</h3><p>10月17日（土）〜10月31日（土）・金沢市</p><p>10/17・24・31、兼六園下交差点下の「HOTEL AO KANAZAWA」6階ルーフトップテラスで、「食処 金沢 酢重」と「金沢 鮨 松の下」の料理を2段重で味わう夜のイベントがある。ルーフトップテラスから金沢城石川門のライトアップや兼六園が見える</p><p>夜の兼六園周辺で食事の予定を探す人向け</p><p><a href="https://gourmetpress.net/1488099/" rel="noopener">出典</a></p></article>
+<article><h3>HOTEL AO KANAZAWA</h3><p>10月17日（土）・24日（土）・31日（土）・金沢市</p><p>10/17・24・31、兼六園下交差点下の「HOTEL AO KANAZAWA」6階ルーフトップテラスで、「食処 金沢 酢重」と「金沢 鮨 松の下」の料理を2段重で味わう夜のイベントがある。ルーフトップテラスから金沢城石川門のライトアップや兼六園が見える</p><p>夜の兼六園周辺で食事の予定を探す人向け</p><p><a href="https://gourmetpress.net/1488099/" rel="noopener">出典</a></p></article>
 <article><h3>gradate-水墨</h3><p>10月17日（土）〜10月25日（日）・金沢市</p><p>10/17(土)〜25(日)、金沢のギャラリー林檎舎で、沖縄／紺野乃芙子 陶展「gradate-水墨」が開かれる</p><p>金沢で陶芸の展示を見たい人向けの9日間</p><p><a href="https://www.kanazawabiyori.com/event/event_137035.html" rel="noopener">出典</a></p></article>
-<article><h3>第53回石川の技能まつり</h3><p>10月18日（日）〜10月25日（日）・金沢市</p><p>「第53回石川の技能まつり」が10/18(日)と10/25(日)に金沢市・白山市で開催される</p><p>日程が2日に分かれているので、行く日を決めたい人向け</p><p><a href="https://ishikawa-style.com/skill-fes-20261018/" rel="noopener">出典</a></p></article>
-<article><h3>台南美食フェア</h3><p>10月24日（土）・金沢市</p><p>10/24(土) 10:00〜17:00、金沢・片町きらら前広場で「台南美食フェア」。台湾グルメを味わえる美食ブース、名産品の振る舞い、観光PR、台湾茶や台湾ランタンの体験コーナー、台湾と金沢にゆかりのある偉人のブースがある。入場無料。小松・高雄便の就航記念</p><p>前日・当日に、金沢で台湾の食と文化に触れたい人向け。料理名は出典に出店の一覧がないので書かない</p><p><a href="https://bg-mania.jp/2026/10/13703560.html" rel="noopener">出典</a></p></article>
+<article><h3>第53回石川の技能まつり</h3><p>10月18日（日）・25日（日）・金沢市</p><p>「第53回石川の技能まつり」が10/18(日)と10/25(日)に金沢市・白山市で開催される</p><p>日程が2日に分かれているので、行く日を決めたい人向け</p><p><a href="https://ishikawa-style.com/skill-fes-20261018/" rel="noopener">出典</a></p></article>
+<article><h3>台南美食フェア</h3><p>10月24日（土）・金沢市</p><p>10/24(土) 10:00〜17:00、金沢・片町きらら前広場で「台南美食フェア」。台湾グルメを味わえる美食ブース、名産品の振る舞い、観光PR、台湾茶や台湾ランタンの体験コーナー、台湾と金沢にゆかりのある偉人のブースがある。入場無料。小松・高雄便の就航記念</p><p>前日・当日に、金沢で台湾の食と文化に触れたい人向け</p><p><a href="https://bg-mania.jp/2026/10/13703560.html" rel="noopener">出典</a></p></article>
 <article><h3>JAののいち 第17回農業まつり2026</h3><p>10月24日（土）・野々市市</p><p>10/24(土)、野々市市スポーツランドで「JAののいち 第17回農業まつり2026」が開かれる</p><p>野々市で農業まつりに行きたい人向け</p><p><a href="https://ishikawa-style.com/jafes2026-nonoichi/" rel="noopener">出典</a></p></article>
 <article><h3>JAのと 秋の収穫感謝祭</h3><p>10月24日（土）</p><p>10/24(土)、JAのと本店で「JAのと 秋の収穫感謝祭」が開かれる</p><p>能登で秋の農業まつりを探す人向け</p><p><a href="https://ishikawa-style.com/jafes2026-noto/" rel="noopener">出典</a></p></article>
 <article><h3>ふれあいマルシェ in わくら</h3><p>10月24日（土）・七尾市</p><p>10/24(土)、和倉温泉お祭り会館で「ふれあいマルシェ in わくら」が開かれる</p><p>和倉温泉でその日の予定を探す人向け</p></article>
 <article><h3>台南美食フェア</h3><p>10月24日（土）・金沢市</p><p>金沢・片町きららで10/24(土)「台南美食フェア」開催。小松～高雄便の就航記念で台湾グルメが集まる</p><p>一日限定、台湾のおいしいを味わえる</p><p><a href="https://www.kanazawa-kankoukyoukai.or.jp/event/detail_52537.html" rel="noopener">出典</a></p></article>
 <article><h3>金沢マラソン2026が10/25(日)開催</h3><p>10月25日（日）・金沢市</p><p>金沢マラソン2026が10/25(日)開催。ウェーブスタート方式をやめ、一斉スタート方式に変わる</p><p>当日は市内中心部で交通規制、沿道や移動の予定を立てる人向け</p><p><a href="https://www.kanazawa-kankoukyoukai.or.jp/event/detail_52265.html" rel="noopener">出典</a></p></article>
 <article><h3>金沢フォーラスが11月2日で20周年を迎える</h3><p>11月2日（月）・金沢市</p><p>金沢フォーラスが11月2日で20周年を迎える。20周年祭の案内に、プレミアムデジタル商品券（事前抽選）が出ている</p><p>金沢駅前の商業施設の節目に合わせて出かける人向け</p></article>
-<article><h3>内村文化祭&#x27;26 旅姿</h3><p>11月7日（土）</p><p>「内村文化祭&#x27;26 旅姿」の初の石川県公演が11月7日・8日に実現する</p><p>石川で初めて開かれる公演の日程</p><p><a href="https://www.weekend-kanazawa.com/entry/uchimura_bunkasai26?utm_source=feed" rel="noopener">出典</a></p></article>
+<article><h3>内村文化祭&#x27;26 旅姿</h3><p>11月7日（土）〜11月8日（日）</p><p>「内村文化祭&#x27;26 旅姿」の初の石川県公演が11月7日・8日に実現する</p><p>石川で初めて開かれる公演の日程</p><p><a href="https://www.weekend-kanazawa.com/entry/uchimura_bunkasai26?utm_source=feed" rel="noopener">出典</a></p></article>
 <article><h3>、普段は見られない発電所の裏側へ行く無料の日帰りバスツアーがある</h3><p>11月15日（日）</p><p>11/15(日)、普段は見られない発電所の裏側へ行く無料の日帰りバスツアーがある。再生可能エネルギーを学ぶ内容</p><p>発電所の中を知りたい人向けの日帰りの予定</p></article>
 <h2>石川に新しくできたお店・スポット</h2>
 <article><h3>リストランテヨシムラ</h3><p>2026年12月6日オープン・金沢市</p><p>金沢市涌波のスパゲティ専門店「リストランテヨシムラ」が12/6に移転オープン</p><p>涌波でスパゲティを食べたい人向けの、移転先の開店日</p><p><a href="https://www.instagram.com/spaghetteriayoshimura/" rel="noopener">出典</a></p></article>
@@ -448,6 +456,8 @@ footer a { color: var(--main); font-weight: 700; }
     const s = pd(it.start), e = pd(it.end);
     if (!s) return it.kind === "催し" ? "日程は出典で" : "";
     if (it.kind === "スポット") return `${s.getFullYear()}年${s.getMonth() + 1}月${s.getDate()}日オープン`;
+    // 飛び飛びの日（10/17・24・31）は、開く日だけを並べる
+    if (it.days) return it.days.map(pd).map(fmt).join("・");
     return +s === +e ? fmt(s) : `${fmt(s)} 〜 ${fmt(e)}`;
   }
 
@@ -481,7 +491,7 @@ footer a { color: var(--main); font-weight: 700; }
   function inTab(it, tab = state.tab) {
     const s = pd(it.start), e = pd(it.end);
     switch (tab) {
-      case "weekend": return it.kind !== "スポット" && s && s <= sun && e >= sat;
+      case "weekend": return it.kind !== "スポット" && s && s <= sun && e >= sat && (!it.days || it.days.some((x) => { const d = pd(x); return sat <= d && d <= sun; }));
       case "upcoming": return it.kind === "催し" && (!e || e >= today);
       case "spot": return it.kind === "スポット";
       case "food": return FOOD.test(it.text) && (it.kind === "スポット" || !e || e >= today);
@@ -491,7 +501,7 @@ footer a { color: var(--main); font-weight: 700; }
   }
   const inArea = (it) => !state.area || it.area === state.area || it.region === state.area;
   const inKind = (it) => !state.kind || it.kind === state.kind;
-  const onDay = (it, day) => { const s = pd(it.start), e = pd(it.end), d = pd(day); return it.kind !== "スポット" && s && s <= d && d <= e; };
+  const onDay = (it, day) => { const s = pd(it.start), e = pd(it.end), d = pd(day); return it.kind !== "スポット" && s && s <= d && d <= e && (!it.days || it.days.includes(day)); };
   const inDay = (it) => !state.day || onDay(it, state.day);
   const inQ = (it) => {
     if (!state.q) return true;
@@ -788,7 +798,7 @@ footer a { color: var(--main); font-weight: 700; }
     const ttl = $("#ttl"); ttl.textContent = "";
     const ic = el("span", "ic"); ic.append(icon("i-bed"));
     const cnt = el("span", "n"); cnt.append(el("b", null, String(list.length)), "軒");
-    ttl.append(ic, el("h1", null, "石川に泊まる"), cnt);
+    ttl.append(ic, el("h2", null, "石川に泊まる"), cnt);
 
     const active = $("#active"); active.textContent = "";
     const pill = (label, clear) => { const x = el("button"); x.append(label, icon("i-x")); x.onclick = () => { clear(); render(); }; active.append(x); };
@@ -830,7 +840,7 @@ footer a { color: var(--main); font-weight: 700; }
     const ttl = $("#ttl"); ttl.textContent = "";
     const ic = el("span", "ic"); ic.append(icon(tab[2]));
     const cnt = el("span", "n"); cnt.append(el("b", null, String(list.length)), "件");
-    ttl.append(ic, el("h1", null, state.day ? `${fmt(pd(state.day))}のおでかけ` : tab[3]), cnt);
+    ttl.append(ic, el("h2", null, state.day ? `${fmt(pd(state.day))}のおでかけ` : tab[3]), cnt);
 
     const active = $("#active"); active.textContent = "";
     const pill = (label, clear) => { const b = el("button"); b.append(label, icon("i-x")); b.setAttribute("aria-label", label + " を外す"); b.onclick = () => { clear(); render(); }; active.append(b); };
