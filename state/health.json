@@ -1,134 +1,57 @@
 {
   "リポジトリ": "yu-fukui/ishikawa-odekake",
-  "作成時刻": "2026-10-20 20:02 JST",
-  "今日": "2026-10-20",
+  "作成時刻": "2026-10-21 00:41 JST",
+  "今日": "2026-10-21",
   "状態": "要確認",
   "明日のキュー": {
-    "対象日": "2026-10-21",
-    "本数": 11,
+    "対象日": "2026-10-22",
+    "本数": 4,
     "予定本数": 10,
-    "足りない": 0,
+    "足りない": 6,
     "時刻": [
       "06:00",
       "08:00",
       "10:00",
-      "12:00",
-      "14:00",
-      "15:00",
-      "17:00",
-      "19:00",
-      "21:00",
-      "22:00",
-      "23:00"
+      "12:00"
     ],
     "同じ時刻が2本以上": [],
     "読めない行": [],
     "投稿": [
       {
-        "id": "p-2026102006-mkok",
+        "id": "p-2026102106-cmtz",
         "時刻": "06:00",
-        "1行目": "【石川】今日かぎりの催し",
-        "文字数": 58,
+        "1行目": "5月7日、小松市波佐谷町の旧波佐谷小学校を生かした「CHABU HASADANI",
+        "文字数": 109,
         "本文にリンク": false,
         "続きにリンク": true,
         "出典元あり": true,
         "PRあり": false
       },
       {
-        "id": "p-2026102008-0izk",
+        "id": "p-2026102108-4usn",
         "時刻": "08:00",
-        "1行目": "7月14日、金沢市広坂に韓国カフェ＆バー「cafe&bar ONDO KANAZ",
-        "文字数": 92,
+        "1行目": "能美市佐野町のカフェ「cafe evanSE note」では、白川郷で栽培された",
+        "文字数": 75,
         "本文にリンク": false,
         "続きにリンク": true,
         "出典元あり": true,
         "PRあり": false
       },
       {
-        "id": "p-2026102010-w9y6",
+        "id": "p-2026102110-pozq",
         "時刻": "10:00",
-        "1行目": "8月3日、小松市今江町に、親子で始めた小さな喫茶店「喫茶コビト」がグランドオープ",
-        "文字数": 56,
+        "1行目": "2026年10月14日、金沢市木倉町に、カレーの店「O-SPICE Massiv",
+        "文字数": 83,
         "本文にリンク": false,
         "続きにリンク": true,
         "出典元あり": true,
         "PRあり": false
       },
       {
-        "id": "p-2026102012-ehzc",
+        "id": "p-2026102112-nqfp",
         "時刻": "12:00",
-        "1行目": "11月7日（土）・8日（日）、「内村文化祭'26 旅姿」の石川県公演が開かれるそ",
-        "文字数": 79,
-        "本文にリンク": false,
-        "続きにリンク": true,
-        "出典元あり": true,
-        "PRあり": false
-      },
-      {
-        "id": "p-2026102014-ggph",
-        "時刻": "14:00",
-        "1行目": "秋の夕ごはんに、石川の地物の魚を1品だけ選ぶなら、どれにしますか？",
-        "文字数": 112,
-        "本文にリンク": false,
-        "続きにリンク": false,
-        "出典元あり": false,
-        "PRあり": false
-      },
-      {
-        "id": "p-2026102115-b2wq",
-        "時刻": "15:00",
-        "1行目": "【石川】コインランドリーがある宿7選🏨",
-        "文字数": 202,
-        "本文にリンク": false,
-        "続きにリンク": false,
-        "出典元あり": false,
-        "PRあり": true
-      },
-      {
-        "id": "p-2026102017-8132",
-        "時刻": "17:00",
-        "1行目": "金沢21世紀美術館で、「キボリノコンノ展 食べたい！木彫りアートの世界」が開かれ",
-        "文字数": 56,
-        "本文にリンク": false,
-        "続きにリンク": true,
-        "出典元あり": true,
-        "PRあり": false
-      },
-      {
-        "id": "p-2026102019-78iu",
-        "時刻": "19:00",
-        "1行目": "2026年7月19日、小松市赤瀬に、お菓子の店「みんなのおやつ SOU」がオープ",
-        "文字数": 56,
-        "本文にリンク": false,
-        "続きにリンク": true,
-        "出典元あり": true,
-        "PRあり": false
-      },
-      {
-        "id": "p-2026102021-7j6v",
-        "時刻": "21:00",
-        "1行目": "10月30日、野々市市粟田の「ラーメン神仙 野々市店」がリニューアルするそうです",
-        "文字数": 71,
-        "本文にリンク": false,
-        "続きにリンク": true,
-        "出典元あり": true,
-        "PRあり": false
-      },
-      {
-        "id": "p-2026102018-elzc",
-        "時刻": "22:00",
-        "1行目": "石川の黒毛和牛「能登牛」には、決まりがあります。",
-        "文字数": 191,
-        "本文にリンク": false,
-        "続きにリンク": true,
-        "出典元あり": false,
-        "PRあり": true
-      },
-      {
-        "id": "p-2026102023-0p4s",
-        "時刻": "23:00",
-        "1行目": "小松市に、中華の店「中華 せいろ ちむ福」がオープンしたそうです。せいろ蒸し料理",
-        "文字数": 72,
+        "1行目": "2027年3月31日（水）まで、加賀市の山中温泉で「山中温泉スイーツめぐり」が開",
+        "文字数": 58,
         "本文にリンク": false,
         "続きにリンク": true,
         "出典元あり": true,
@@ -142,14 +65,14 @@
       "ファイル": "affiliate-check.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 02:04 JST",
+        "時刻": "2026-10-21 00:17 JST",
         "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39291031508"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39446972307"
       },
-      "最後の成功": "2026-10-20 02:04 JST",
+      "最後の成功": "2026-10-21 00:17 JST",
       "今日走ったか": true,
-      "24時間の実行": 1,
+      "24時間の実行": 2,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -174,14 +97,14 @@
       "ファイル": "balance-check.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 02:04 JST",
+        "時刻": "2026-10-21 00:16 JST",
         "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39290933000"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39446860661"
       },
-      "最後の成功": "2026-10-20 02:04 JST",
+      "最後の成功": "2026-10-21 00:16 JST",
       "今日走ったか": true,
-      "24時間の実行": 1,
+      "24時間の実行": 2,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -212,12 +135,12 @@
       "ファイル": "health-snapshot.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 20:02 JST",
+        "時刻": "2026-10-21 00:41 JST",
         "結果": "in_progress",
         "きっかけ": "workflow_run",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39412146071"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39450747684"
       },
-      "最後の成功": "2026-10-20 02:38 JST",
+      "最後の成功": "2026-10-20 20:02 JST",
       "今日走ったか": true,
       "24時間の実行": 4,
       "24時間の失敗": 0,
@@ -284,14 +207,14 @@
       "ファイル": "odekake.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 19:35 JST",
+        "時刻": "2026-10-20 22:33 JST",
         "結果": "success",
         "きっかけ": "push",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39408999907"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39431450181"
       },
-      "最後の成功": "2026-10-20 19:35 JST",
-      "今日走ったか": true,
-      "24時間の実行": 16,
+      "最後の成功": "2026-10-20 22:33 JST",
+      "今日走ったか": false,
+      "24時間の実行": 18,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -300,12 +223,12 @@
       "ファイル": "replies-read.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-19 20:47 JST",
+        "時刻": "2026-10-20 20:48 JST",
         "結果": "success",
         "きっかけ": "workflow_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39247184488"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39417552369"
       },
-      "最後の成功": "2026-10-19 20:47 JST",
+      "最後の成功": "2026-10-20 20:48 JST",
       "今日走ったか": false,
       "24時間の実行": 1,
       "24時間の失敗": 0,
@@ -326,7 +249,7 @@
         "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39352574126"
       },
       "最後の成功": "2026-10-20 10:17 JST",
-      "今日走ったか": true,
+      "今日走ったか": false,
       "24時間の実行": 2,
       "24時間の失敗": 0,
       "最後の失敗": {
@@ -340,14 +263,14 @@
       "ファイル": "test.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 19:35 JST",
+        "時刻": "2026-10-20 22:33 JST",
         "結果": "success",
         "きっかけ": "push",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39408999755"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39431450286"
       },
-      "最後の成功": "2026-10-20 19:35 JST",
-      "今日走ったか": true,
-      "24時間の実行": 27,
+      "最後の成功": "2026-10-20 22:33 JST",
+      "今日走ったか": false,
+      "24時間の実行": 28,
       "24時間の失敗": 0,
       "最後の失敗": {
         "時刻": "2026-10-15 23:54 JST",
@@ -376,32 +299,37 @@
       "ファイル": "threads-compose.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 20:00 JST",
-        "結果": "success",
-        "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39411913426"
+        "時刻": "2026-10-21 00:33 JST",
+        "結果": "failure",
+        "きっかけ": "schedule",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39449475563"
       },
       "最後の成功": "2026-10-20 20:00 JST",
       "今日走ったか": true,
-      "24時間の実行": 2,
-      "24時間の失敗": 0,
+      "24時間の実行": 3,
+      "24時間の失敗": 1,
       "最後の失敗": {
-        "時刻": "2026-10-17 14:52 JST",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39007835468"
+        "時刻": "2026-10-21 00:33 JST",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39449475563",
+        "理由": [
+          "compose: Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-python@v5. For more information see: https://github.blog",
+          "compose: 予備が足りず、空いたままの枠: 14:00、17:00、19:00、21:00、23:00",
+          "compose: 12:00 を予備で埋めました：2027年3月31日（水）まで、加賀市の山中温泉で「山中温泉スイーツめぐり」が開"
+        ]
       },
-      "判定": "成功"
+      "判定": "失敗"
     },
     {
       "名前": "Threads 予約投稿",
       "ファイル": "threads-post.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 20:00 JST",
+        "時刻": "2026-10-21 00:40 JST",
         "結果": "success",
         "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39411912396"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39450564922"
       },
-      "最後の成功": "2026-10-20 20:00 JST",
+      "最後の成功": "2026-10-21 00:40 JST",
       "今日走ったか": true,
       "24時間の実行": 100,
       "24時間の失敗": 0,
@@ -428,14 +356,14 @@
       "ファイル": "threads-review.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 01:58 JST",
+        "時刻": "2026-10-21 00:01 JST",
         "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39290049950"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39444518762"
       },
-      "最後の成功": "2026-10-20 01:58 JST",
+      "最後の成功": "2026-10-21 00:01 JST",
       "今日走ったか": true,
-      "24時間の実行": 1,
+      "24時間の実行": 2,
       "24時間の失敗": 0,
       "最後の失敗": {
         "時刻": "2026-10-14 02:34 JST",
@@ -448,19 +376,20 @@
       "ファイル": "pages-build-deployment",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 20:02 JST",
+        "時刻": "2026-10-21 00:41 JST",
         "結果": "in_progress",
         "きっかけ": "dynamic",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39412132591"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39450729736"
       },
-      "最後の成功": "2026-10-20 19:35 JST",
+      "最後の成功": "2026-10-21 00:01 JST",
       "今日走ったか": true,
-      "24時間の実行": 61,
+      "24時間の実行": 64,
       "24時間の失敗": 0,
       "判定": "実行中"
     }
   ],
   "警告": [
-    "朝の情報集め（neta-collect.yml）が今日まだ走っていません。cron-job.org の起動を確かめてください"
+    "朝の情報集め（neta-collect.yml）が今日まだ走っていません。cron-job.org の起動を確かめてください",
+    "翌日ぶんの作成（threads-compose.yml）が今日失敗しています。理由：[\"compose: Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-python@v5. For more information see: https://"
   ]
 }
