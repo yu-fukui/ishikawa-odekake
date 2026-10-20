@@ -1,6 +1,6 @@
 {
   "リポジトリ": "yu-fukui/ishikawa-odekake",
-  "作成時刻": "2026-10-21 00:41 JST",
+  "作成時刻": "2026-10-21 00:43 JST",
   "今日": "2026-10-21",
   "状態": "要確認",
   "明日のキュー": {
@@ -135,14 +135,14 @@
       "ファイル": "health-snapshot.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-21 00:41 JST",
+        "時刻": "2026-10-21 00:43 JST",
         "結果": "in_progress",
-        "きっかけ": "workflow_run",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39450747684"
+        "きっかけ": "schedule",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39451093826"
       },
-      "最後の成功": "2026-10-20 20:02 JST",
+      "最後の成功": "2026-10-21 00:41 JST",
       "今日走ったか": true,
-      "24時間の実行": 4,
+      "24時間の実行": 5,
       "24時間の失敗": 0,
       "判定": "実行中"
     },
@@ -376,16 +376,16 @@
       "ファイル": "pages-build-deployment",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-21 00:41 JST",
-        "結果": "in_progress",
+        "時刻": "2026-10-21 00:42 JST",
+        "結果": "success",
         "きっかけ": "dynamic",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39450729736"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39450842435"
       },
-      "最後の成功": "2026-10-21 00:01 JST",
+      "最後の成功": "2026-10-21 00:42 JST",
       "今日走ったか": true,
-      "24時間の実行": 64,
+      "24時間の実行": 65,
       "24時間の失敗": 0,
-      "判定": "実行中"
+      "判定": "成功"
     }
   ],
   "警告": [
