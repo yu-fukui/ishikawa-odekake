@@ -1,18 +1,25 @@
 {
   "リポジトリ": "yu-fukui/ishikawa-odekake",
-  "作成時刻": "2026-10-21 00:43 JST",
+  "作成時刻": "2026-10-21 20:06 JST",
   "今日": "2026-10-21",
   "状態": "要確認",
   "明日のキュー": {
     "対象日": "2026-10-22",
-    "本数": 4,
+    "本数": 11,
     "予定本数": 10,
-    "足りない": 6,
+    "足りない": 0,
     "時刻": [
       "06:00",
       "08:00",
       "10:00",
-      "12:00"
+      "12:00",
+      "14:00",
+      "15:00",
+      "17:00",
+      "19:00",
+      "21:00",
+      "22:00",
+      "23:00"
     ],
     "同じ時刻が2本以上": [],
     "読めない行": [],
@@ -56,6 +63,76 @@
         "続きにリンク": true,
         "出典元あり": true,
         "PRあり": false
+      },
+      {
+        "id": "p-2026102114-2c2o",
+        "時刻": "14:00",
+        "1行目": "秋の休日、県外の友だちと車で金沢から少し足をのばすなら、1か所だけどこへ連れて行",
+        "文字数": 116,
+        "本文にリンク": false,
+        "続きにリンク": false,
+        "出典元あり": false,
+        "PRあり": false
+      },
+      {
+        "id": "p-2026102115-f5je",
+        "時刻": "15:00",
+        "1行目": "金沢城公園の玉泉院丸庭園で、毎週土曜日と特定の日に、夜のライトアップがあるそうで",
+        "文字数": 95,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": true
+      },
+      {
+        "id": "p-2026102117-qngf",
+        "時刻": "17:00",
+        "1行目": "金沢駅前の別院通りに、テイクアウトもできる唐揚げ専門店「ゴッドママからあげ キッ",
+        "文字数": 83,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": false
+      },
+      {
+        "id": "p-2026102119-i4gc",
+        "時刻": "19:00",
+        "1行目": "11月23日（月・祝）、珠洲市のラポルトすずで「STAND TOGETHER i",
+        "文字数": 89,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": false
+      },
+      {
+        "id": "p-2026102121-009a",
+        "時刻": "21:00",
+        "1行目": "【石川の雪吊り 2026】",
+        "文字数": 73,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": false
+      },
+      {
+        "id": "p-2026102122-u5ut",
+        "時刻": "22:00",
+        "1行目": "粒の大きさは、巨峰の約2倍。",
+        "文字数": 116,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": false,
+        "PRあり": true
+      },
+      {
+        "id": "p-2026102123-tgl3",
+        "時刻": "23:00",
+        "1行目": "10月25日（日）まで、金沢で「金沢ナイトミュージアム2026」が開かれているそ",
+        "文字数": 89,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": false
       }
     ]
   },
@@ -72,7 +149,7 @@
       },
       "最後の成功": "2026-10-21 00:17 JST",
       "今日走ったか": true,
-      "24時間の実行": 2,
+      "24時間の実行": 1,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -104,7 +181,7 @@
       },
       "最後の成功": "2026-10-21 00:16 JST",
       "今日走ったか": true,
-      "24時間の実行": 2,
+      "24時間の実行": 1,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -135,14 +212,14 @@
       "ファイル": "health-snapshot.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-21 00:43 JST",
+        "時刻": "2026-10-21 20:06 JST",
         "結果": "in_progress",
-        "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39451093826"
+        "きっかけ": "workflow_run",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39589480193"
       },
-      "最後の成功": "2026-10-21 00:41 JST",
+      "最後の成功": "2026-10-21 00:43 JST",
       "今日走ったか": true,
-      "24時間の実行": 5,
+      "24時間の実行": 3,
       "24時間の失敗": 0,
       "判定": "実行中"
     },
@@ -207,14 +284,14 @@
       "ファイル": "odekake.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 22:33 JST",
+        "時刻": "2026-10-21 19:26 JST",
         "結果": "success",
         "きっかけ": "push",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39431450181"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39584543800"
       },
-      "最後の成功": "2026-10-20 22:33 JST",
-      "今日走ったか": false,
-      "24時間の実行": 18,
+      "最後の成功": "2026-10-21 19:26 JST",
+      "今日走ったか": true,
+      "24時間の実行": 7,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -243,13 +320,13 @@
       "ファイル": "status-numbers.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 10:17 JST",
+        "時刻": "2026-10-21 09:59 JST",
         "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39352574126"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39524621622"
       },
-      "最後の成功": "2026-10-20 10:17 JST",
-      "今日走ったか": false,
+      "最後の成功": "2026-10-21 09:59 JST",
+      "今日走ったか": true,
       "24時間の実行": 2,
       "24時間の失敗": 0,
       "最後の失敗": {
@@ -263,14 +340,14 @@
       "ファイル": "test.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-20 22:33 JST",
+        "時刻": "2026-10-21 19:26 JST",
         "結果": "success",
         "きっかけ": "push",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39431450286"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39584543411"
       },
-      "最後の成功": "2026-10-20 22:33 JST",
-      "今日走ったか": false,
-      "24時間の実行": 28,
+      "最後の成功": "2026-10-21 19:26 JST",
+      "今日走ったか": true,
+      "24時間の実行": 11,
       "24時間の失敗": 0,
       "最後の失敗": {
         "時刻": "2026-10-15 23:54 JST",
@@ -299,37 +376,32 @@
       "ファイル": "threads-compose.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-21 00:33 JST",
-        "結果": "failure",
-        "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39449475563"
+        "時刻": "2026-10-21 20:00 JST",
+        "結果": "success",
+        "きっかけ": "repository_dispatch",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39588746751"
       },
-      "最後の成功": "2026-10-20 20:00 JST",
+      "最後の成功": "2026-10-21 20:00 JST",
       "今日走ったか": true,
-      "24時間の実行": 3,
+      "24時間の実行": 2,
       "24時間の失敗": 1,
       "最後の失敗": {
         "時刻": "2026-10-21 00:33 JST",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39449475563",
-        "理由": [
-          "compose: Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-python@v5. For more information see: https://github.blog",
-          "compose: 予備が足りず、空いたままの枠: 14:00、17:00、19:00、21:00、23:00",
-          "compose: 12:00 を予備で埋めました：2027年3月31日（水）まで、加賀市の山中温泉で「山中温泉スイーツめぐり」が開"
-        ]
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39449475563"
       },
-      "判定": "失敗"
+      "判定": "成功"
     },
     {
       "名前": "Threads 予約投稿",
       "ファイル": "threads-post.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-21 00:40 JST",
+        "時刻": "2026-10-21 20:00 JST",
         "結果": "success",
         "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39450564922"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39588745035"
       },
-      "最後の成功": "2026-10-21 00:40 JST",
+      "最後の成功": "2026-10-21 20:00 JST",
       "今日走ったか": true,
       "24時間の実行": 100,
       "24時間の失敗": 0,
@@ -363,7 +435,7 @@
       },
       "最後の成功": "2026-10-21 00:01 JST",
       "今日走ったか": true,
-      "24時間の実行": 2,
+      "24時間の実行": 1,
       "24時間の失敗": 0,
       "最後の失敗": {
         "時刻": "2026-10-14 02:34 JST",
@@ -376,20 +448,19 @@
       "ファイル": "pages-build-deployment",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-21 00:42 JST",
-        "結果": "success",
+        "時刻": "2026-10-21 20:06 JST",
+        "結果": "in_progress",
         "きっかけ": "dynamic",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39450842435"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39589469784"
       },
-      "最後の成功": "2026-10-21 00:42 JST",
+      "最後の成功": "2026-10-21 19:26 JST",
       "今日走ったか": true,
-      "24時間の実行": 65,
+      "24時間の実行": 52,
       "24時間の失敗": 0,
-      "判定": "成功"
+      "判定": "実行中"
     }
   ],
   "警告": [
-    "朝の情報集め（neta-collect.yml）が今日まだ走っていません。cron-job.org の起動を確かめてください",
-    "翌日ぶんの作成（threads-compose.yml）が今日失敗しています。理由：[\"compose: Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-python@v5. For more information see: https://"
+    "朝の情報集め（neta-collect.yml）が今日まだ走っていません。cron-job.org の起動を確かめてください"
   ]
 }
