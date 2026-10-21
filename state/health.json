@@ -1,6 +1,6 @@
 {
   "リポジトリ": "yu-fukui/ishikawa-odekake",
-  "作成時刻": "2026-10-22 00:55 JST",
+  "作成時刻": "2026-10-22 01:01 JST",
   "今日": "2026-10-22",
   "状態": "要確認",
   "明日のキュー": {
@@ -190,14 +190,14 @@
       "ファイル": "health-snapshot.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-22 00:55 JST",
+        "時刻": "2026-10-22 01:01 JST",
         "結果": "in_progress",
-        "きっかけ": "workflow_run",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39630089324"
+        "きっかけ": "schedule",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39631033608"
       },
-      "最後の成功": "2026-10-21 20:06 JST",
+      "最後の成功": "2026-10-22 00:55 JST",
       "今日走ったか": true,
-      "24時間の実行": 2,
+      "24時間の実行": 3,
       "24時間の失敗": 0,
       "判定": "実行中"
     },
@@ -374,12 +374,12 @@
       "ファイル": "threads-post.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-22 00:50 JST",
+        "時刻": "2026-10-22 01:00 JST",
         "結果": "success",
         "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39629286896"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39630856307"
       },
-      "最後の成功": "2026-10-22 00:50 JST",
+      "最後の成功": "2026-10-22 01:00 JST",
       "今日走ったか": true,
       "24時間の実行": 100,
       "24時間の失敗": 0,
@@ -426,16 +426,16 @@
       "ファイル": "pages-build-deployment",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-22 00:55 JST",
-        "結果": "in_progress",
+        "時刻": "2026-10-22 00:56 JST",
+        "結果": "success",
         "きっかけ": "dynamic",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39630072672"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39630170922"
       },
-      "最後の成功": "2026-10-21 22:01 JST",
+      "最後の成功": "2026-10-22 00:56 JST",
       "今日走ったか": true,
-      "24時間の実行": 46,
+      "24時間の実行": 47,
       "24時間の失敗": 0,
-      "判定": "実行中"
+      "判定": "成功"
     }
   ],
   "警告": [
