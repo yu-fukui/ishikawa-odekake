@@ -6,9 +6,8 @@ name: Threads 翌日ぶんを作成
 on:
   repository_dispatch:
     types: [threads-compose]
-  # 外部 cron が無いあいだの起動（20:00 JST。少し遅れることがある）
-  schedule:
-    - cron: "0 11 * * *"
+  # GitHub の schedule（0 11 UTC）はやめた（2026-10-22 運用部・石川：4〜5時間遅れて 0時台に動き、
+  # 外部 cron の 20:00 の回と合わせて1日2回作っていた）。起動は外部 cron（cron-job.org）だけ
   workflow_dispatch:
     inputs:
       dry_run:
