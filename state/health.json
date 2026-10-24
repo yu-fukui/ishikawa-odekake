@@ -1,8 +1,8 @@
 {
   "リポジトリ": "yu-fukui/ishikawa-odekake",
-  "作成時刻": "2026-10-24 20:04 JST",
+  "作成時刻": "2026-10-24 23:43 JST",
   "今日": "2026-10-24",
-  "状態": "要確認",
+  "状態": "ok",
   "明日のキュー": {
     "対象日": "2026-10-25",
     "本数": 11,
@@ -27,8 +27,8 @@
       {
         "id": "p-2026102406-rgaz",
         "時刻": "06:00",
-        "1行目": "【石川】今日かぎりの催し5つ",
-        "文字数": 232,
+        "1行目": "【石川】今日かぎりの催し4つ",
+        "文字数": 195,
         "本文にリンク": false,
         "続きにリンク": true,
         "出典元あり": true,
@@ -68,7 +68,7 @@
         "id": "p-2026102414-16f8",
         "時刻": "14:00",
         "1行目": "県外に出て「これ、石川だけだったんだ」と気づいたものを、1つだけ挙げるならどれで",
-        "文字数": 151,
+        "文字数": 136,
         "本文にリンク": false,
         "続きにリンク": false,
         "出典元あり": false,
@@ -87,8 +87,8 @@
       {
         "id": "p-2026102417-gm6e",
         "時刻": "17:00",
-        "1行目": "金沢市増泉に、中華の店「ハルビン串焼き・中華」がオープンしました。",
-        "文字数": 75,
+        "1行目": "8月8日、金沢市増泉に中華の店「ハルビン串焼き・中華」がオープンしました。",
+        "文字数": 79,
         "本文にリンク": false,
         "続きにリンク": true,
         "出典元あり": true,
@@ -142,14 +142,14 @@
       "ファイル": "affiliate-check.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-24 00:21 JST",
+        "時刻": "2026-10-24 23:05 JST",
         "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39977639695"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/40100923724"
       },
-      "最後の成功": "2026-10-24 00:21 JST",
+      "最後の成功": "2026-10-24 23:05 JST",
       "今日走ったか": true,
-      "24時間の実行": 1,
+      "24時間の実行": 2,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -174,14 +174,14 @@
       "ファイル": "balance-check.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-24 00:20 JST",
+        "時刻": "2026-10-24 23:04 JST",
         "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39977480215"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/40100860760"
       },
-      "最後の成功": "2026-10-24 00:20 JST",
+      "最後の成功": "2026-10-24 23:04 JST",
       "今日走ったか": true,
-      "24時間の実行": 1,
+      "24時間の実行": 2,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -212,14 +212,14 @@
       "ファイル": "health-snapshot.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-24 20:04 JST",
+        "時刻": "2026-10-24 23:43 JST",
         "結果": "in_progress",
-        "きっかけ": "workflow_run",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/40088399092"
+        "きっかけ": "schedule",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/40103798905"
       },
-      "最後の成功": "2026-10-24 00:49 JST",
+      "最後の成功": "2026-10-24 20:04 JST",
       "今日走ったか": true,
-      "24時間の実行": 2,
+      "24時間の実行": 3,
       "24時間の失敗": 0,
       "判定": "実行中"
     },
@@ -300,13 +300,13 @@
       "ファイル": "replies-read.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-23 20:49 JST",
+        "時刻": "2026-10-24 20:48 JST",
         "結果": "success",
         "きっかけ": "workflow_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39948742564"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/40091403530"
       },
-      "最後の成功": "2026-10-23 20:49 JST",
-      "今日走ったか": false,
+      "最後の成功": "2026-10-24 20:48 JST",
+      "今日走ったか": true,
       "24時間の実行": 1,
       "24時間の失敗": 0,
       "最後の失敗": {
@@ -340,19 +340,15 @@
       "ファイル": "test.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-24 18:03 JST",
+        "時刻": "2026-10-24 20:59 JST",
         "結果": "success",
         "きっかけ": "push",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/40080429586"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/40092105020"
       },
-      "最後の成功": "2026-10-24 18:03 JST",
+      "最後の成功": "2026-10-24 20:59 JST",
       "今日走ったか": true,
       "24時間の実行": 14,
       "24時間の失敗": 0,
-      "最後の失敗": {
-        "時刻": "2026-10-15 23:54 JST",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/38755558079"
-      },
       "判定": "成功"
     },
     {
@@ -396,12 +392,12 @@
       "ファイル": "threads-post.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-24 20:00 JST",
+        "時刻": "2026-10-24 23:40 JST",
         "結果": "success",
         "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/40088149690"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/40103537110"
       },
-      "最後の成功": "2026-10-24 20:00 JST",
+      "最後の成功": "2026-10-24 23:40 JST",
       "今日走ったか": true,
       "24時間の実行": 100,
       "24時間の失敗": 0,
@@ -428,14 +424,14 @@
       "ファイル": "threads-review.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-24 00:00 JST",
+        "時刻": "2026-10-24 22:59 JST",
         "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/39974561721"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/40100499622"
       },
-      "最後の成功": "2026-10-24 00:00 JST",
+      "最後の成功": "2026-10-24 22:59 JST",
       "今日走ったか": true,
-      "24時間の実行": 1,
+      "24時間の実行": 2,
       "24時間の失敗": 0,
       "最後の失敗": {
         "時刻": "2026-10-14 02:34 JST",
@@ -448,19 +444,16 @@
       "ファイル": "pages-build-deployment",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-24 20:04 JST",
-        "結果": "queued",
+        "時刻": "2026-10-24 23:01 JST",
+        "結果": "success",
         "きっかけ": "dynamic",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/40088393720"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/40100622593"
       },
-      "最後の成功": "2026-10-24 19:01 JST",
+      "最後の成功": "2026-10-24 23:01 JST",
       "今日走ったか": true,
-      "24時間の実行": 36,
+      "24時間の実行": 38,
       "24時間の失敗": 0,
-      "判定": "実行中"
+      "判定": "成功"
     }
-  ],
-  "警告": [
-    "朝の情報集め（neta-collect.yml）が今日まだ走っていません。cron-job.org の起動を確かめてください"
   ]
 }
