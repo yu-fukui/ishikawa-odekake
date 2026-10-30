@@ -499,6 +499,8 @@ def 今日のまとめ(対象日: date, 宿たち: list[dict] | None = None,
     新しい = 3
     選んだ = next(((き, 合う) for き, 合う in 順
                  if sum(見せる名(h) not in 避ける for h in 合う) >= 新しい), None) if 避ける else None
+    if 避ける and not 選んだ:
+        print(f"::warning::{対象日} の宿まとめ：直近に出していない宿が{新しい}軒以上ある切り口がありません（宿 {len(宿たち)} 軒のうち {len(避ける)} 軒が直近）。出したばかりの宿が並びます。宿のリストを増やしてください")
     for _ in (0,):
         き, 合う = 選んだ or 使える[始め]
         ずらし = 日数 % len(合う)
