@@ -1,6 +1,200 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-06",
  "items": [
+  {
+   "text": "金沢に、カウンター寿司の「寿司ひかる」がオープンした。若き店主が握る旬ネタを一貫から気軽に楽しめる（週末金沢の記事）",
+   "note": "金沢で気軽にカウンター寿司を探す人向けの新店",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://www.weekend-kanazawa.com/entry/sushi-hikaru?utm_source=feed",
+   "instagram": null,
+   "written": "2026-11-06",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/8205d6de4c9e6e9c6c5f387aeea7827556b6d188/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20261028%2F20261028154852.jpg",
+    "title": "【金沢】カウンター寿司の新星「寿司ひかる」がオープン！若き店主が握る旬ネタを一貫から気軽に。【NEW OPEN】 - 週末、金沢。",
+    "description": "10月8日、金沢市片町に「寿司ひかる」がオープン！ カウンター8席のみの居心地のいい空間で、店主が握る鮮度抜群の旬ネタを一貫から気軽に楽しめるお店ができました。 回らないお寿司デビューにもぴったりな…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "金沢市弥生に、カフェ「joujou patisserie and cafe」が11/16にプレオープン予定（いしかわスタイルの新店・リニューアル情報）",
+   "note": "弥生で新しいパティスリーカフェを探す人向けの新店",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": "2026-11-16",
+   "end": "2026-11-16",
+   "source": "https://www.instagram.com/joujou_patisserie_and_cafe/",
+   "instagram": null,
+   "written": "2026-11-06",
+   "pick": false,
+   "region": "金沢",
+   "og": null
+  },
+  {
+   "text": "金沢市東山に、足湯カフェ「KAYA Cafe加賀棒茶足湯」が11/13にオープン予定（いしかわスタイルの新店・リニューアル情報）",
+   "note": "東山の散策で足湯カフェを探す人向けの新店",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "source": "https://www.instagram.com/wamonoya_kaya_kanazawa",
+   "instagram": "https://www.instagram.com/wamonoya_kaya_kanazawa/",
+   "written": "2026-11-06",
+   "pick": false,
+   "region": "金沢",
+   "og": null
+  },
+  {
+   "text": "11/20、小松市清六町のイオンモール新小松内に、レディースファッションの「OPAQUE.CLIP」がオープン（いしかわスタイルの新店・リニューアル情報）",
+   "note": "小松でレディースファッションを探す人向けの新店",
+   "kind": "スポット",
+   "area": "小松市",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "source": "https://store.world.co.jp/s/journal/brand/opaqueclip/",
+   "instagram": null,
+   "written": "2026-11-06",
+   "pick": false,
+   "region": "加賀",
+   "og": null
+  },
+  {
+   "text": "11/7(土)13:00〜21:00、金沢市菊川1のライブハウス「金沢vanvanV4」で「金沢一生青春FESTIVAL2026 ～vanvanV4 45th Anniversary Special～」が開かれる。主催は金沢のバンド「A（c）」で、全9組が出演。当日料金は5,000円、学生は1,000円引き（要学生証提示）、小学生以下無料。金沢vanvanV4は1981年に創業し、45周年を迎える（金沢経済新聞の記事）",
+   "note": "11/7の土曜に、金沢でライブに行きたい人向け",
+   "kind": "催し",
+   "area": "金沢市",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "source": "https://kanazawa.keizai.biz/headline/4111/",
+   "instagram": null,
+   "written": "2026-11-06",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://images.keizai.biz/kanazawa_keizai/headline/1792462351_photo.jpg",
+    "title": "金沢のライブハウスで「一生青春」フェス 創業45周年で地元バンドが主催",
+    "description": "音楽イベント「金沢一生青春FESTIVAL2026 ～vanvanV4 45th Anniversary Special～」が11月7日、ライブハウス「金沢vanvanV4」（金沢市菊川1）で開催さ…",
+    "site": "金沢経済新聞"
+   }
+  },
+  {
+   "text": "10/10(土)〜12/20(日)、金沢市片町2-10-17の前田土佐守家資料館で、令和8年度テーマ展「加賀藩主ー人物と足跡ー」の第3期が開かれる。「幕末と激動の時代を生きた藩主たち」として、13代前田斉泰と14代前田慶寧の2人を紹介する。開館 9:30〜17:00（入館は16:30まで）、観覧料は一般310円・団体（20名以上）260円",
+   "note": "幕末の加賀藩主について知りたい人向けの展示",
+   "kind": "催し",
+   "area": "金沢市",
+   "start": "2026-10-10",
+   "end": "2026-12-20",
+   "source": "https://www4.city.kanazawa.lg.jp/event/31413.html",
+   "instagram": null,
+   "written": "2026-11-06",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://www4.city.kanazawa.lg.jp/material/images/group/104/20260404tosak711.jpg",
+    "title": "前田土佐守家資料館 令和8年度テーマ展「加賀藩主ー人物と足跡ー」第3期開催！|金沢市公式ホームページ いいね金沢",
+    "description": "当館の「テーマ展」は、金沢や加賀藩の歴史を毎年異なるテーマで掘り下げる展示です。第2回となる今年度は加賀藩主をとりあげます。 加賀藩は、江戸時代初期から終末まで一貫して、前田家が加賀藩主として領国を…",
+    "site": null
+   }
+  },
+  {
+   "text": "11/29(日)、羽咋市川原町テ39番地1のLAKUNAはくいで「はくいこどもフェス」が開かれる（16時まで）。開会挨拶は羽咋市長。ブースは「リアルおままごと」「羽咋市のお仕事体験」「建築遊びワークショップ」など（羽咋市の案内）",
+   "note": "11月末の日曜に、羽咋で親子の予定を探す人向け",
+   "kind": "催し",
+   "area": "羽咋市",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "source": "https://www.city.hakui.lg.jp/soshiki/shiminfukushibu/kodomo/2/1/16010.html",
+   "instagram": "https://www.instagram.com/hakui_city/",
+   "written": "2026-11-06",
+   "pick": false,
+   "region": "能登",
+   "og": {
+    "image": "https://www.city.hakui.lg.jp/material/images/group/26/R8kodomofesuchirasi.png",
+    "title": "はくいこどもフェスを開催します|羽咋市公式ホームページ",
+    "description": "★開催日および時間令和8年11月29日（日曜日）午後10時（開会）～午後16時★場所・LAKUNAはくい 住所：羽咋市川原町テ39番地1★内容【開会挨拶】羽咋市長 岸 博一【ブース】リアルおままごと…",
+    "site": null
+   }
+  },
+  {
+   "text": "金沢日和が、ホテル日航金沢の日本料理「弁慶」の冬の二段重を紹介している。蟹の季節の幕開けに、紅ずわい蟹鍋を添えた内容",
+   "note": "11/6のカニ漁の解禁のあと、ホテルで蟹の料理を探す人向け",
+   "kind": "話題",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://www.kanazawabiyori.com/special/lunch/benkay.html",
+   "instagram": null,
+   "written": "2026-11-06",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://www.kanazawabiyori.com/contents/wp-content/uploads/2026/03/nikko2026.07_766_benkei.jpg",
+    "title": "日本料理 弁慶",
+    "description": null,
+    "site": "金沢日和"
+   }
+  },
+  {
+   "text": "カナミー金沢が、「11月後半の金沢・石川のおすすめイベント（11/20〜）」をまとめている",
+   "note": "11月後半の石川の予定を探す人向けの入口",
+   "kind": "催し",
+   "area": "金沢市",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "source": "https://kaname-kanazawa.com/event202611-2/",
+   "instagram": null,
+   "written": "2026-11-06",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://kaname-kanazawa.com/qw79p8M/wp-content/uploads/2026/10/9a3300063fadc9d7d5b8464e1030c662.jpg",
+    "title": "【2026年11月後半】金沢・石川の秋のおすすめイベントまとめ♪",
+    "description": "2026年11月後半に金沢・石川で開催されるおすすめイベント紹介！ マルシェや講演会、コスモアイルフェスティバルなど♪",
+    "site": "カナミー金沢｜あなたと金沢を結ぶローカルメディア"
+   }
+  },
+  {
+   "text": "カナミー金沢が、小立野の石川県立図書館内の人気カフェ「HUM＆Go（ハムアンドゴー） 石川県立図書館カフェ」を紹介している",
+   "note": "小立野で図書館のカフェを探す人向け",
+   "kind": "話題",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://kaname-kanazawa.com/humandgo/",
+   "instagram": null,
+   "written": "2026-11-06",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://kaname-kanazawa.com/qw79p8M/wp-content/uploads/2026/10/20261008_102347864-1.jpg",
+    "title": "石川県立図書館のカフェ「ハムアンドゴー」で心地よいひとときを",
+    "description": "金沢市小立野の石川県立図書館内にあるカフェ「HUM＆Go」さん。開放感あふれる空間でモーニングや自家製プリンなどのスイーツを♪",
+    "site": "カナミー金沢｜あなたと金沢を結ぶローカルメディア"
+   }
+  },
+  {
+   "text": "週末金沢が、金沢のおしゃれな伝統工芸品・雑貨7選を紹介している。可愛い九谷焼・金箔・水引・加賀毛針など、自分用やお土産におすすめのもの",
+   "note": "金沢の工芸品でお土産を選びたい人向け",
+   "kind": "話題",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://www.weekend-kanazawa.com/entry/oniyage_kogeihin?utm_source=feed",
+   "instagram": null,
+   "written": "2026-11-06",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/00f79a357d055b8f3f232aa1a465d0e269078ebd/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fw%2Fweekendkanazawa%2F20261028%2F20261028152821.jpg",
+    "title": "【金沢お土産】金沢のおしゃれな伝統工芸品・雑貨7選！自分用やお土産におすすめの可愛い九谷焼・金箔・水引・加賀毛針 - 週末、金沢。",
+    "description": "金沢旅行に来たなら、金沢ならではの伝統と「今っぽさ」が融合した、おしゃれなお土産を持ち帰りませんか？ 金沢には、古くから受け継がれてきた伝統工芸品を現代のライフスタイルに合わせてアップデートした可愛…",
+    "site": "週末、金沢。"
+   }
+  },
   {
    "text": "金沢市高柳町に「居酒屋 和み処 松ちゃん」が8月10日にオープン。東金沢駅から徒歩約5分、アパート1階のテナントで紺色の暖簾が目印。名物は薩摩地鶏の炭火焼きで、海鮮・串焼き・揚げ物・一品料理もある。テーブル席のほか、掘りごたつの小上がり席がある",
    "note": "東金沢駅の近くで居酒屋を探す人向けの新店",
