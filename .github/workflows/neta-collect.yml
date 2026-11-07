@@ -3,7 +3,7 @@ name: ネタ帳を埋める
 # neta/設定.json の「通す質問」で Web 検索し、出典URLの辿れる出来事だけを
 # neta/ネタ帳.md の「書き足す場所」の下に追記してコミットする。
 #
-# 毎朝 7:00 (JST) に外部 cron（cron-job.org）から neta-collect で起動する（集めるのは月・水・金）。
+# 毎朝 7:00 (JST) に外部 cron（cron-job.org）から neta-collect で起動する（集めるのは月・木）。
 # 手で回したいときは Actions タブ → このワークフロー → Run workflow。
 on:
   # 外部 cron（cron-job.org）から叩く入口。
@@ -34,7 +34,8 @@ concurrency:
 jobs:
   # 2026-10-08 代表指示「情報収集は、月曜と木曜の週2回にします。」
   # 2026-10-28 代表「週3にして」（ネタが足りず、8〜11日前の出し直しが続いたため）。月・水・金にした
-  # cron-job.org からは毎朝起動されるが、集めるのは日本時間の月・水・金だけ。
+  # 2026-11-07 代表「石川の情報集めを週2回に、費用抑える施策を実施」。月・木に戻した（cron-job.org の石川の行も月木7:00）
+  # 集めるのは日本時間の月・木だけ。
   # 手で回したとき（workflow_dispatch）は曜日にかかわらず集める。
   # 起動そのものは毎日あるので、状態まとめの「今日走ったか」は毎日の見張りに使える。
   day:
@@ -42,14 +43,14 @@ jobs:
     outputs:
       run: ${{ steps.day.outputs.run }}
     steps:
-      - name: 集める日か（月・水・金）
+      - name: 集める日か（月・木）
         id: day
         run: |
           dow=$(TZ=Asia/Tokyo date +%u)   # 1=月 … 7=日
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$dow" = "1" ] || [ "$dow" = "3" ] || [ "$dow" = "5" ]; then
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$dow" = "1" ] || [ "$dow" = "4" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
-            echo "今日（曜日番号 ${dow}）は集めない日です。集めるのは月・水・金だけ。"
+            echo "今日（曜日番号 ${dow}）は集めない日です。集めるのは月・木だけ。"
             echo "run=false" >> "$GITHUB_OUTPUT"
           fi
 
