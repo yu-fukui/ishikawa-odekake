@@ -79,18 +79,27 @@ def _抜き出す(文: str, 名: str) -> str | None:
             continue
         m = min(候補, key=lambda x: x[0])[1]
         行たち = []
+        時刻 = re.compile(r"\d{1,2}[:：]\d{2}|\d{1,2}時|L\.?O")
+        飛ばした = 0
         for l in 文[m.end():].split("\n"):
-            l = l.strip()
+            l = l.strip().lstrip("、,：:　 ").strip()
             if not l:
-                if 行たち:
-                    continue
                 continue
-            if 行たち and (not re.search(r"\d", l) or re.search(r"定休|休業|休み|[:：]\s*$|Web|予算|TEL|電話|住所|アクセス|駐車", l)):
-                break
+            if 札 == "営業時間" and "定休" in l and 時刻.search(l.split("定休")[0]):
+                l = l.split("定休")[0].strip(" /／・、")   # 「10:00〜19:00 定休日 / 水曜日」の前だけ
+            if 札 == "営業時間":
+                # 営業時間の行は、時刻のある行だけ。頭の時刻の無い行（「変更のお知らせ」など）は2行まで飛ばす
+                if not 時刻.search(l) or re.search(r"オープン|開店|定休|休業|お知らせ", l):
+                    if 行たち or 飛ばした >= 2:
+                        break
+                    飛ばした += 1
+                    continue
             行たち.append(l)
             if 札 == "定休日" or len(行たち) >= 3 or len("／".join(行たち)) > 90:
                 break
         v = " ／ ".join(行たち).rstrip("。").strip()
+        if 札 == "定休日" and re.search(r"\d{4}[./]\d{1,2}[./]\d{1,2}.*\d{4}[./]\d{1,2}", v):
+            continue   # 日付の並び（休みの日の暦）は写さない
         if 札 == "営業時間" and not re.search(r"\d", v):
             continue
         if v:
