@@ -1,6 +1,181 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-09",
  "items": [
+  {
+   "text": "金沢市八日市出町に、ハワイ料理の「ALOHA LED CAFE & Culture（アロハ レッド カフェ＆カルチャー）」が10月23日にオープン。ハワイから約1年前に金沢へ移住した夫婦が営む店で、ポケやラウラウといったハワイの伝統料理が楽しめる。注文はモバイルオーダーではなく、スタッフと直接話すスタイル（週末金沢の記事）",
+   "note": "金沢でハワイ料理を探す人向けの新店",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "source": "https://www.weekend-kanazawa.com/entry/alohaledcafe?utm_source=feed",
+   "instagram": null,
+   "written": "2026-11-09",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/c64a6ae1c21cc52521772b891f4e8eb2bc9ed7f2/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20261030%2F20261030132807.jpg",
+    "title": "【金沢】ハワイから移住した夫婦が営む「ALOHA LED CAFE & Culture」がオープン！本場のハワイ料理と温かなおもてなしを満喫♪【NEW OPE…",
+    "description": "10月23日、金沢市八日市出町に「ALOHA LED CAFE & Culture（アロハ レッド カフェ＆カルチャー）」がオープンしました。 ハワイアンな雰囲気が漂う店内で楽しめるのは、ポケやラウ…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "金沢・新竪町に、日本酒と旬の料理の店「旬味とお酒 縁 yukari（ゆかり）」がオープンした。隠れ家のような空間で、ランチも紹介されている（週末金沢の記事）（→ 新竪町で日本酒と料理の店を探す人向けの新店） ［営業時間: ランチ11:30-15:00（L.O.14:30）、ディナー17:00-23:00（L.O.22:30）／定休日: 水曜、日曜夜（https://www.weekend-kanazawa.com/entry/yukari?utm_source=feed）］",
+   "note": "",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://www.weekend-kanazawa.com/entry/yukari?utm_source=feed",
+   "instagram": null,
+   "written": "2026-11-09",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/6ff4f1b40ece25ba14c37a97746cd185ece49d19/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20261102%2F20261102182706.jpg",
+    "title": "【金沢・新竪町】日本酒と旬の絶品料理を隠れ家空間で味わう「旬味とお酒 縁 yukari」がオープン！ランチもおすすめ♪【NEW OPEN】 - 週末、金沢。",
+    "description": "8月13日、金沢市新竪町に「旬味とお酒 縁 yukari」がオープン！ 日本酒や焼酎とともに、旬の食材をふんだんに使った一品料理をゆるりと味わえるお店です。 レトロな新竪町商店街に溶け込む落ち着いた…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "金沢市田上さくらに、麻辣湯の「喜楽麻辣湯 田上本店」が11/11にオープン予定（いしかわスタイルの新店・リニューアル情報）",
+   "note": "田上で麻辣湯を探す人向けの新店",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "source": "https://www.instagram.com/kiraku.maratan/",
+   "instagram": null,
+   "written": "2026-11-09",
+   "pick": false,
+   "region": "金沢",
+   "og": null
+  },
+  {
+   "text": "白山市中町に、カレーの「Garage Curry」が11/10にオープン予定（いしかわスタイルの新店・リニューアル情報）",
+   "note": "白山でカレーを探す人向けの新店",
+   "kind": "スポット",
+   "area": "白山市",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "source": "https://www.instagram.com/garage_curry/",
+   "instagram": null,
+   "written": "2026-11-09",
+   "pick": false,
+   "region": "加賀",
+   "og": null
+  },
+  {
+   "text": "金沢市堀川新町に、居酒屋の「さかな酒場 魚星 金沢駅前店」が11/5にオープン（いしかわスタイルの新店・リニューアル情報）",
+   "note": "金沢駅の近くで居酒屋を探す人向けの新店",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": "2026-11-05",
+   "end": "2026-11-05",
+   "source": "https://sakana-uosei.com/kanazawa-ekimae/",
+   "instagram": null,
+   "written": "2026-11-09",
+   "pick": false,
+   "region": "金沢",
+   "og": null
+  },
+  {
+   "text": "11/20(金)〜11/22(日)、七尾駅前にぎわい館（パトリア）で「カキメルカート」が開かれる（いしかわスタイルの記事）（→ 11月下旬の週末に、七尾で牡蠣の催しを探す人向け） ［会場: 七尾駅前にぎわい館（パトリア）1F屋外／日時: 2026年11月20日(金)～11月22日(日) ／ 16:00～21:00（https://ishikawa-style.com/kaki-mercato-20261120/）］",
+   "note": "",
+   "kind": "話題",
+   "area": "七尾市",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "source": "https://ishikawa-style.com/kaki-mercato-20261120/",
+   "instagram": null,
+   "written": "2026-11-09",
+   "pick": false,
+   "region": "能登",
+   "og": {
+    "image": "http://ishikawa-style.com/wp-content/uploads/2026/11/859829375_18104428382642840_43261698423234639_n.jpg",
+    "title": "【11/20(金)～11/22(日)】カキメルカート@七尾駅前にぎわい館（パトリア） | いしかわスタイル",
+    "description": "2026年11月20日(金)～11月22日(日)、七尾駅前にぎわい館にて「カキメルカート」が開催されます。炭火の焼き牡蠣や多彩な牡蠣料理、ワインが楽しめます。",
+    "site": "いしかわスタイル"
+   }
+  },
+  {
+   "text": "11/21(土)・11/22(日)、野々市市で「Big Apple in Nonoichi 2026」が開かれる。マイルス・デイビスとジョン・コルトレーンの生誕100年をうたう催しで、要申込（いしかわスタイルの記事）（→ 11月下旬の週末に、野々市でジャズの催しを探す人向け） ［会場: 野々市市文化会館（フォルテ）／日時: 2026年11月21日(土) 13:00～17:00 ／ 2026年11月22日(日) 13:00開場、15:00開演（カレッジ・ジャズ・リーグは13:10～）（https://ishikawa-style.com/bigapple-nono1-20261121/）］",
+   "note": "",
+   "kind": "話題",
+   "area": "野々市市",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "source": "https://ishikawa-style.com/bigapple-nono1-20261121/",
+   "instagram": null,
+   "written": "2026-11-09",
+   "pick": false,
+   "region": "加賀",
+   "og": {
+    "image": "http://ishikawa-style.com/wp-content/uploads/2026/11/41009cca21bd9519d405711621c4badd-1086x1536-1.jpg",
+    "title": "【11/21(土),11/22(日)】Big Apple in Nonoichi 2026 帝王マイルス・デイビス 求道者ジョン・コルトレーン 生誕100年@…",
+    "description": "2026年11月21日(土)、11月22日(日)、野々市市文化会館にて「Big Apple in Nonoichi 2026 帝王マイルス・デイビス 求道者ジョン・コルトレーン 生誕100年」が開催…",
+    "site": "いしかわスタイル"
+   }
+  },
+  {
+   "text": "週末金沢が、カニ漁の解禁にあわせて、石川・富山で行きたい「カニ祭り」3選を紹介している",
+   "note": "カニ漁解禁のあと、カニの催しを探す人向けの入口",
+   "kind": "催し",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://www.weekend-kanazawa.com/entry/kani-matsuri?utm_source=feed",
+   "instagram": null,
+   "written": "2026-11-09",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/bfdf61f455bfb22e8378fef649dab245e756106e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20261102%2F20261102171242.png",
+    "title": "【2026年最新】カニ漁解禁！石川・富山で絶対行きたい「カニ祭り」3選 - 週末、金沢。",
+    "description": "11月6日のカニ漁解禁に伴い、北陸は本格的なカニシーズンに突入！ せっかくなら新鮮な旬の味覚を存分に味わいたいですよね。 今回は、週末のおでかけにぴったりな石川県（金沢市・加賀市）と富山県（魚津市）…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "カナミー金沢が、金沢・石川の新商品と期間限定の情報を「11月のトピックス」としてまとめている",
+   "note": "11月の石川の新商品・期間限定を探す人向けの入口",
+   "kind": "話題",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://kaname-kanazawa.com/topics202611/",
+   "instagram": null,
+   "written": "2026-11-09",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://kaname-kanazawa.com/qw79p8M/wp-content/uploads/2026/11/8e5d0c30a5f0169ee7829ab689264209.jpg",
+    "title": "【2026年11月】金沢・石川の新商品＆注目情報まとめ♪",
+    "description": "2026年11月の金沢・石川の新商品や注目情報をまとめて紹介！ビーバー新商品、福光屋さんの新酒、甘味処「つぼみ南」さんなど♪",
+    "site": "カナミー金沢｜あなたと金沢を結ぶローカルメディア"
+   }
+  },
+  {
+   "text": "週末金沢が、石川・金沢で開催されるイベントの一覧を「11月4日更新」として載せている",
+   "note": "11月の石川の催しを探す人向けの入口",
+   "kind": "催し",
+   "area": "金沢市",
+   "start": "2026-11-04",
+   "end": "2026-11-04",
+   "source": "https://www.weekend-kanazawa.com/entry/event?utm_source=feed",
+   "instagram": null,
+   "written": "2026-11-09",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/f42e966f2dab77721dba1f0ebd5bfabd115351a3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20261104%2F20261104085314.jpg",
+    "title": "【金沢・イベント】石川・金沢で開催されるイベント一覧。11月4日更新！ - 週末、金沢。",
+    "description": "金沢・野々市・白山・小松・加賀・能登など、石川県や富山県で今週末開催されるイベント情報をピックアップ！お祭り、伝統行事、ライトアップ、花火、グルメ、体験、展覧会といった多彩なイベントをご紹介します。",
+    "site": "週末、金沢。"
+   }
+  },
   {
    "text": "金沢に、カウンター寿司の「寿司ひかる」がオープンした。若き店主が握る旬ネタを一貫から気軽に楽しめる（週末金沢の記事）（→ 金沢で気軽にカウンター寿司を探す人向けの新店） ［営業時間: 17:30-22:30（L.O.22:00）／定休日: 水曜（https://www.weekend-kanazawa.com/entry/sushi-hikaru?utm_source=feed）］",
    "note": "",
