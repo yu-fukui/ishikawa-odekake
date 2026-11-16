@@ -7,8 +7,8 @@
    "area": "金沢駅",
    "region": "金沢",
    "rating": 4.4,
-   "reviews": 12602,
-   "price": 5250,
+   "reviews": 12630,
+   "price": 6037,
    "kind": null,
    "pick": false,
    "text": "金沢駅から徒歩2分 天然温泉大浴場・サウナ完備",
@@ -21,7 +21,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D53171",
    "image": "https://trvimg.r10s.jp/share/HOTEL/53171/53171.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 1616,
@@ -30,7 +30,7 @@
    "area": "山代温泉",
    "region": "加賀",
    "rating": 4.55,
-   "reviews": 3813,
+   "reviews": 3821,
    "price": 11880,
    "kind": null,
    "pick": false,
@@ -43,7 +43,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D1616",
    "image": "https://trvimg.r10s.jp/share/HOTEL/1616/1616.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 2050,
@@ -51,9 +51,9 @@
    "city": "金沢市",
    "area": "金沢駅",
    "region": "金沢",
-   "rating": 4.69,
-   "reviews": 2882,
-   "price": 9732,
+   "rating": 4.68,
+   "reviews": 2889,
+   "price": 7905,
    "kind": null,
    "pick": false,
    "text": "ＪＲ金沢駅兼六園口（東口）より徒歩３分程の高層ホテル",
@@ -63,7 +63,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2050",
    "image": "https://trvimg.r10s.jp/share/HOTEL/2050/2050.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 547,
@@ -72,8 +72,8 @@
    "area": "金沢駅",
    "region": "金沢",
    "rating": 4.09,
-   "reviews": 8653,
-   "price": 4770,
+   "reviews": 8669,
+   "price": 4230,
    "kind": null,
    "pick": false,
    "text": "コンパクトながらも機能性を追求した金沢駅目前の大浴殿付ホテル",
@@ -85,29 +85,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D547",
    "image": "https://trvimg.r10s.jp/share/HOTEL/547/547.jpg",
-   "checked": "2026-11-09"
-  },
-  {
-   "id": 14380,
-   "name": "粟津温泉 旅亭懐石 のとや",
-   "city": "小松市",
-   "area": "粟津温泉",
-   "region": "加賀",
-   "rating": 4.22,
-   "reviews": 6427,
-   "price": 14520,
-   "kind": null,
-   "pick": false,
-   "text": "伝統と現代の融合、700年こんこんと湧き続ける純生の湯の老舗宿",
-   "features": [
-    "温泉",
-    "露天風呂",
-    "サウナ",
-    "大浴場"
-   ],
-   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D14380",
-   "image": "https://trvimg.r10s.jp/share/HOTEL/14380/14380.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 18391,
@@ -116,7 +94,7 @@
    "area": "香林坊・片町",
    "region": "金沢",
    "rating": 4.14,
-   "reviews": 7380,
+   "reviews": 7395,
    "price": 3960,
    "kind": null,
    "pick": false,
@@ -129,7 +107,29 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D18391",
    "image": "https://trvimg.r10s.jp/share/HOTEL/18391/18391.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
+  },
+  {
+   "id": 14380,
+   "name": "粟津温泉 旅亭懐石 のとや",
+   "city": "小松市",
+   "area": "粟津温泉",
+   "region": "加賀",
+   "rating": 4.2,
+   "reviews": 6433,
+   "price": 14520,
+   "kind": null,
+   "pick": false,
+   "text": "伝統と現代の融合、700年こんこんと湧き続ける純生の湯の老舗宿",
+   "features": [
+    "温泉",
+    "露天風呂",
+    "サウナ",
+    "大浴場"
+   ],
+   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D14380",
+   "image": "https://trvimg.r10s.jp/share/HOTEL/14380/14380.jpg",
+   "checked": "2026-11-16"
   },
   {
    "id": 9004,
@@ -138,8 +138,8 @@
    "area": "東山・兼六園",
    "region": "金沢",
    "rating": 4.56,
-   "reviews": 2898,
-   "price": 7500,
+   "reviews": 2904,
+   "price": 7750,
    "kind": null,
    "pick": false,
    "text": "金沢城のすぐ側で美肌の湯と金沢美食、そして心温まるおもてなしに癒されて日常をひと休みしませんか",
@@ -152,7 +152,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9004",
    "image": "https://trvimg.r10s.jp/share/HOTEL/9004/9004.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 67124,
@@ -160,8 +160,8 @@
    "city": "加賀市",
    "area": "山中温泉",
    "region": "加賀",
-   "rating": 4.75,
-   "reviews": 1727,
+   "rating": 4.74,
+   "reviews": 1735,
    "price": 20500,
    "kind": null,
    "pick": false,
@@ -175,27 +175,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D67124",
    "image": "https://trvimg.r10s.jp/share/HOTEL/67124/67124.jpg",
-   "checked": "2026-11-09"
-  },
-  {
-   "id": 1426,
-   "name": "金沢東急ホテル",
-   "city": "金沢市",
-   "area": "香林坊・片町",
-   "region": "金沢",
-   "rating": 4.52,
-   "reviews": 2399,
-   "price": 5700,
-   "kind": null,
-   "pick": false,
-   "text": "武家文化の風雅さと和モダンの上質な空間で金沢のおもてなしを",
-   "features": [
-    "朝食バイキング",
-    "チェックアウト遅め"
-   ],
-   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D1426",
-   "image": "https://trvimg.r10s.jp/share/HOTEL/1426/1426.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 68251,
@@ -204,8 +184,8 @@
    "area": "山中温泉",
    "region": "加賀",
    "rating": 4.62,
-   "reviews": 1989,
-   "price": 17000,
+   "reviews": 2008,
+   "price": 16000,
    "kind": null,
    "pick": false,
    "text": "≪全室リバービュー・夕食時飲み放題≫渓流沿いの露天風呂と旬の加賀料理を堪能",
@@ -216,7 +196,27 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D68251",
    "image": "https://trvimg.r10s.jp/share/HOTEL/68251/68251.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
+  },
+  {
+   "id": 1426,
+   "name": "金沢東急ホテル",
+   "city": "金沢市",
+   "area": "香林坊・片町",
+   "region": "金沢",
+   "rating": 4.51,
+   "reviews": 2405,
+   "price": 5700,
+   "kind": null,
+   "pick": false,
+   "text": "武家文化の風雅さと和モダンの上質な空間で金沢のおもてなしを",
+   "features": [
+    "朝食バイキング",
+    "チェックアウト遅め"
+   ],
+   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D1426",
+   "image": "https://trvimg.r10s.jp/share/HOTEL/1426/1426.jpg",
+   "checked": "2026-11-16"
   },
   {
    "id": 263,
@@ -225,8 +225,8 @@
    "area": "金沢駅",
    "region": "金沢",
    "rating": 4.29,
-   "reviews": 3366,
-   "price": 6317,
+   "reviews": 3371,
+   "price": 6475,
    "kind": null,
    "pick": false,
    "text": "金沢駅隣接、全館Wi-Fi接続無料",
@@ -235,7 +235,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D263",
    "image": "https://trvimg.r10s.jp/share/HOTEL/263/263.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 4853,
@@ -244,7 +244,7 @@
    "area": "山中温泉",
    "region": "加賀",
    "rating": 4.25,
-   "reviews": 3483,
+   "reviews": 3492,
    "price": 8800,
    "kind": null,
    "pick": false,
@@ -258,7 +258,26 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D4853",
    "image": "https://trvimg.r10s.jp/share/HOTEL/4853/4853.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
+  },
+  {
+   "id": 147638,
+   "name": "ABホテル金沢",
+   "city": "金沢市",
+   "area": "金沢駅",
+   "region": "金沢",
+   "rating": 4.15,
+   "reviews": 4148,
+   "price": 2200,
+   "kind": null,
+   "pick": false,
+   "text": "男女別浴場完備・ネット接続無料。金沢駅より徒歩１分の好アクセス♪",
+   "features": [
+    "大浴場"
+   ],
+   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D147638",
+   "image": "https://trvimg.r10s.jp/share/HOTEL/147638/147638.jpg",
+   "checked": "2026-11-16"
   },
   {
    "id": 11043,
@@ -267,8 +286,8 @@
    "area": "山代温泉",
    "region": "加賀",
    "rating": 4.48,
-   "reviews": 2214,
-   "price": 8800,
+   "reviews": 2224,
+   "price": 9900,
    "kind": null,
    "pick": false,
    "text": "2021年・2022年、温泉露天風呂付客室13室オープン",
@@ -282,26 +301,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D11043",
    "image": "https://trvimg.r10s.jp/share/HOTEL/11043/11043.jpg",
-   "checked": "2026-11-09"
-  },
-  {
-   "id": 147638,
-   "name": "ABホテル金沢",
-   "city": "金沢市",
-   "area": "金沢駅",
-   "region": "金沢",
-   "rating": 4.14,
-   "reviews": 4130,
-   "price": 2200,
-   "kind": null,
-   "pick": false,
-   "text": "男女別浴場完備・ネット接続無料。金沢駅より徒歩１分の好アクセス♪",
-   "features": [
-    "大浴場"
-   ],
-   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D147638",
-   "image": "https://trvimg.r10s.jp/share/HOTEL/147638/147638.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 65976,
@@ -310,7 +310,7 @@
    "area": "金沢駅",
    "region": "金沢",
    "rating": 4.15,
-   "reviews": 3933,
+   "reviews": 3943,
    "price": 3640,
    "kind": null,
    "pick": false,
@@ -318,7 +318,7 @@
    "features": [],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D65976",
    "image": "https://trvimg.r10s.jp/share/HOTEL/65976/65976.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 2120,
@@ -326,8 +326,8 @@
    "city": "金沢市",
    "area": "香林坊・片町",
    "region": "金沢",
-   "rating": 4.07,
-   "reviews": 2922,
+   "rating": 4.08,
+   "reviews": 2931,
    "price": 3690,
    "kind": null,
    "pick": false,
@@ -337,7 +337,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2120",
    "image": "https://trvimg.r10s.jp/share/HOTEL/2120/2120.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 40312,
@@ -346,7 +346,7 @@
    "area": "山中温泉",
    "region": "加賀",
    "rating": 4.55,
-   "reviews": 1023,
+   "reviews": 1029,
    "price": 9900,
    "kind": null,
    "pick": false,
@@ -360,7 +360,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D40312",
    "image": "https://trvimg.r10s.jp/share/HOTEL/40312/40312.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 153452,
@@ -368,9 +368,9 @@
    "city": "金沢市",
    "area": "湯涌",
    "region": "金沢",
-   "rating": 4.65,
+   "rating": 4.64,
    "reviews": 801,
-   "price": 24662,
+   "price": 27258,
    "kind": null,
    "pick": false,
    "text": "2022楽天ゴールドアワード＆日本の宿47 ダブル受賞",
@@ -382,29 +382,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D153452",
    "image": "https://trvimg.r10s.jp/share/HOTEL/153452/153452.jpg",
-   "checked": "2026-11-09"
-  },
-  {
-   "id": 6191,
-   "name": "山代温泉 瑠璃光",
-   "city": "加賀市",
-   "area": "山代温泉",
-   "region": "加賀",
-   "rating": 4.24,
-   "reviews": 1508,
-   "price": 8470,
-   "kind": null,
-   "pick": false,
-   "text": "進化する日本の宿。上質な心地よいもてなしでお客様をお迎えします",
-   "features": [
-    "温泉",
-    "露天風呂",
-    "サウナ",
-    "大浴場"
-   ],
-   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D6191",
-   "image": "https://trvimg.r10s.jp/share/HOTEL/6191/6191.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 4806,
@@ -413,8 +391,8 @@
    "area": "香林坊・片町",
    "region": "金沢",
    "rating": 4.32,
-   "reviews": 1283,
-   "price": 2012,
+   "reviews": 1287,
+   "price": 2218,
    "kind": null,
    "pick": false,
    "text": "北陸エリア初進出 ｔｈｅ ｂ 金沢片町が８月１日グランドオープン",
@@ -423,7 +401,29 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D4806",
    "image": "https://trvimg.r10s.jp/share/HOTEL/4806/4806.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
+  },
+  {
+   "id": 28073,
+   "name": "粟津温泉 法師",
+   "city": "小松市",
+   "area": "粟津温泉",
+   "region": "加賀",
+   "rating": 4.13,
+   "reviews": 1793,
+   "price": 8044,
+   "kind": null,
+   "pick": false,
+   "text": "養老二年開湯！伝承一千三百年の歴史ある日本の宿",
+   "features": [
+    "温泉",
+    "露天風呂",
+    "サウナ",
+    "大浴場"
+   ],
+   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D28073",
+   "image": "https://trvimg.r10s.jp/share/HOTEL/28073/28073.jpg",
+   "checked": "2026-11-16"
   },
   {
    "id": 5566,
@@ -432,7 +432,7 @@
    "area": "山代温泉",
    "region": "加賀",
    "rating": 4.09,
-   "reviews": 1890,
+   "reviews": 1901,
    "price": 13000,
    "kind": null,
    "pick": false,
@@ -447,29 +447,29 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5566",
    "image": "https://trvimg.r10s.jp/share/HOTEL/5566/5566.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
-   "id": 28073,
-   "name": "粟津温泉 法師",
-   "city": "小松市",
-   "area": "粟津温泉",
+   "id": 6191,
+   "name": "山代温泉 瑠璃光",
+   "city": "加賀市",
+   "area": "山代温泉",
    "region": "加賀",
-   "rating": 4.11,
-   "reviews": 1789,
-   "price": 8044,
+   "rating": 4.2,
+   "reviews": 1511,
+   "price": 8470,
    "kind": null,
    "pick": false,
-   "text": "養老二年開湯！伝承一千三百年の歴史ある日本の宿",
+   "text": "進化する日本の宿。上質な心地よいもてなしでお客様をお迎えします",
    "features": [
     "温泉",
     "露天風呂",
     "サウナ",
     "大浴場"
    ],
-   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D28073",
-   "image": "https://trvimg.r10s.jp/share/HOTEL/28073/28073.jpg",
-   "checked": "2026-11-09"
+   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D6191",
+   "image": "https://trvimg.r10s.jp/share/HOTEL/6191/6191.jpg",
+   "checked": "2026-11-16"
   },
   {
    "id": 2123,
@@ -477,8 +477,8 @@
    "city": "小松市",
    "area": "小松",
    "region": "加賀",
-   "rating": 4.01,
-   "reviews": 2092,
+   "rating": 4.02,
+   "reviews": 2100,
    "price": 4230,
    "kind": null,
    "pick": false,
@@ -486,7 +486,7 @@
    "features": [],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2123",
    "image": "https://trvimg.r10s.jp/share/HOTEL/2123/2123.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 10624,
@@ -508,7 +508,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D10624",
    "image": "https://trvimg.r10s.jp/share/HOTEL/10624/10624.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 67297,
@@ -530,7 +530,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D67297",
    "image": "https://trvimg.r10s.jp/share/HOTEL/67297/67297.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 54213,
@@ -538,8 +538,8 @@
    "city": "金沢市",
    "area": "香林坊・片町",
    "region": "金沢",
-   "rating": 4.07,
-   "reviews": 1619,
+   "rating": 4.04,
+   "reviews": 1632,
    "price": 4988,
    "kind": null,
    "pick": false,
@@ -547,7 +547,7 @@
    "features": [],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D54213",
    "image": "https://trvimg.r10s.jp/share/HOTEL/54213/54213.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 19323,
@@ -564,7 +564,7 @@
    "features": [],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D19323",
    "image": "https://trvimg.r10s.jp/share/HOTEL/19323/19323.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 28601,
@@ -572,8 +572,8 @@
    "city": "小松市",
    "area": "粟津温泉",
    "region": "加賀",
-   "rating": 4.25,
-   "reviews": 1032,
+   "rating": 4.24,
+   "reviews": 1033,
    "price": 8910,
    "kind": null,
    "pick": false,
@@ -585,7 +585,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D28601",
    "image": "https://trvimg.r10s.jp/share/HOTEL/28601/28601.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 178203,
@@ -594,7 +594,7 @@
    "area": "香林坊・片町",
    "region": "金沢",
    "rating": 4.29,
-   "reviews": 892,
+   "reviews": 899,
    "price": 3510,
    "kind": null,
    "pick": false,
@@ -604,7 +604,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D178203",
    "image": "https://trvimg.r10s.jp/share/HOTEL/178203/178203.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 17927,
@@ -612,8 +612,8 @@
    "city": "加賀市",
    "area": "山代温泉",
    "region": "加賀",
-   "rating": 4.61,
-   "reviews": 526,
+   "rating": 4.59,
+   "reviews": 531,
    "price": 7700,
    "kind": null,
    "pick": false,
@@ -626,29 +626,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D17927",
    "image": "https://trvimg.r10s.jp/share/HOTEL/17927/17927.jpg",
-   "checked": "2026-11-09"
-  },
-  {
-   "id": 2130,
-   "name": "アパホテルステイ〈小松グランド〉",
-   "city": "小松市",
-   "area": "小松",
-   "region": "加賀",
-   "rating": 3.83,
-   "reviews": 1842,
-   "price": 6400,
-   "kind": null,
-   "pick": false,
-   "text": "北陸・石川のご当地朝食 / 大浴殿・サウナ・露天風呂完備 / 宴会場・会議場もあり（要予約）",
-   "features": [
-    "露天風呂",
-    "サウナ",
-    "大浴場",
-    "朝食バイキング"
-   ],
-   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2130",
-   "image": "https://trvimg.r10s.jp/share/HOTEL/2130/2130.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 38847,
@@ -656,8 +634,8 @@
    "city": "能美市",
    "area": "能美",
    "region": "加賀",
-   "rating": 4.73,
-   "reviews": 430,
+   "rating": 4.72,
+   "reviews": 433,
    "price": 20625,
    "kind": null,
    "pick": false,
@@ -670,7 +648,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D38847",
    "image": "https://trvimg.r10s.jp/share/HOTEL/38847/38847.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 74519,
@@ -678,8 +656,8 @@
    "city": "加賀市",
    "area": "片山津温泉",
    "region": "加賀",
-   "rating": 3.87,
-   "reviews": 1617,
+   "rating": 3.88,
+   "reviews": 1626,
    "price": 8200,
    "kind": null,
    "pick": false,
@@ -693,7 +671,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D74519",
    "image": "https://trvimg.r10s.jp/share/HOTEL/74519/74519.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 30835,
@@ -701,8 +679,8 @@
    "city": "金沢市",
    "area": "湯涌",
    "region": "金沢",
-   "rating": 4.59,
-   "reviews": 496,
+   "rating": 4.6,
+   "reviews": 497,
    "price": 19635,
    "kind": null,
    "pick": false,
@@ -714,7 +692,29 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D30835",
    "image": "https://trvimg.r10s.jp/share/HOTEL/30835/30835.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
+  },
+  {
+   "id": 2130,
+   "name": "アパホテルステイ〈小松グランド〉",
+   "city": "小松市",
+   "area": "小松",
+   "region": "加賀",
+   "rating": 3.79,
+   "reviews": 1849,
+   "price": 6400,
+   "kind": null,
+   "pick": false,
+   "text": "北陸・石川のご当地朝食 / 大浴殿・サウナ・露天風呂完備 / 宴会場・会議場もあり（要予約）",
+   "features": [
+    "露天風呂",
+    "サウナ",
+    "大浴場",
+    "朝食バイキング"
+   ],
+   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2130",
+   "image": "https://trvimg.r10s.jp/share/HOTEL/2130/2130.jpg",
+   "checked": "2026-11-16"
   },
   {
    "id": 165187,
@@ -722,8 +722,8 @@
    "city": "小松市",
    "area": "小松",
    "region": "加賀",
-   "rating": 4.37,
-   "reviews": 624,
+   "rating": 4.36,
+   "reviews": 629,
    "price": 5900,
    "kind": null,
    "pick": false,
@@ -731,7 +731,7 @@
    "features": [],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D165187",
    "image": "https://trvimg.r10s.jp/share/HOTEL/165187/165187.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 181399,
@@ -740,8 +740,8 @@
    "area": "小松",
    "region": "加賀",
    "rating": 4.28,
-   "reviews": 693,
-   "price": 4275,
+   "reviews": 700,
+   "price": 4140,
    "kind": null,
    "pick": false,
    "text": "JR小松駅に隣接 衣類クリーニングマシン『LGスタイラー』全室完備＆地元鮮魚店直仕入れの焼き魚朝食",
@@ -750,7 +750,26 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D181399",
    "image": "https://trvimg.r10s.jp/share/HOTEL/181399/181399.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
+  },
+  {
+   "id": 1178,
+   "name": "ホテルエアポート小松",
+   "city": "小松市",
+   "area": "小松",
+   "region": "加賀",
+   "rating": 4.08,
+   "reviews": 922,
+   "price": 2036,
+   "kind": null,
+   "pick": false,
+   "text": "JR小松駅(西口)より徒歩2分の好立地 アクセスも抜群♪ようこそ! 観光・伝統・産業と食の町小松へ♪",
+   "features": [
+    "チェックアウト遅め"
+   ],
+   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D1178",
+   "image": "https://trvimg.r10s.jp/share/HOTEL/1178/1178.jpg",
+   "checked": "2026-11-16"
   },
   {
    "id": 67313,
@@ -759,7 +778,7 @@
    "area": "小松",
    "region": "加賀",
    "rating": 4.22,
-   "reviews": 719,
+   "reviews": 723,
    "price": 5425,
    "kind": null,
    "pick": false,
@@ -770,26 +789,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D67313",
    "image": "https://trvimg.r10s.jp/share/HOTEL/67313/67313.jpg",
-   "checked": "2026-11-09"
-  },
-  {
-   "id": 1178,
-   "name": "ホテルエアポート小松",
-   "city": "小松市",
-   "area": "小松",
-   "region": "加賀",
-   "rating": 4.06,
-   "reviews": 920,
-   "price": 2036,
-   "kind": null,
-   "pick": false,
-   "text": "JR小松駅(西口)より徒歩2分の好立地 アクセスも抜群♪ようこそ! 観光・伝統・産業と食の町小松へ♪",
-   "features": [
-    "チェックアウト遅め"
-   ],
-   "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D1178",
-   "image": "https://trvimg.r10s.jp/share/HOTEL/1178/1178.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 128508,
@@ -797,8 +797,8 @@
    "city": "加賀市",
    "area": "山中温泉",
    "region": "加賀",
-   "rating": 4.08,
-   "reviews": 848,
+   "rating": 4.07,
+   "reviews": 856,
    "price": 10200,
    "kind": null,
    "pick": false,
@@ -813,7 +813,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D128508",
    "image": "https://trvimg.r10s.jp/share/HOTEL/128508/128508.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 29093,
@@ -836,7 +836,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D29093",
    "image": "https://trvimg.r10s.jp/share/HOTEL/29093/29093.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 108761,
@@ -844,8 +844,8 @@
    "city": "小松市",
    "area": "粟津温泉",
    "region": "加賀",
-   "rating": 4.02,
-   "reviews": 716,
+   "rating": 4.01,
+   "reviews": 725,
    "price": 9700,
    "kind": null,
    "pick": false,
@@ -859,7 +859,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D108761",
    "image": "https://trvimg.r10s.jp/share/HOTEL/108761/108761.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 7019,
@@ -867,8 +867,8 @@
    "city": "能美市",
    "area": "能美",
    "region": "加賀",
-   "rating": 4.1,
-   "reviews": 589,
+   "rating": 4.07,
+   "reviews": 592,
    "price": 9900,
    "kind": null,
    "pick": false,
@@ -881,7 +881,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7019",
    "image": "https://trvimg.r10s.jp/share/HOTEL/7019/7019.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 67323,
@@ -889,8 +889,8 @@
    "city": "小松市",
    "area": "粟津温泉",
    "region": "加賀",
-   "rating": 3.97,
-   "reviews": 586,
+   "rating": 3.95,
+   "reviews": 590,
    "price": 4620,
    "kind": null,
    "pick": false,
@@ -900,7 +900,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D67323",
    "image": "https://trvimg.r10s.jp/share/HOTEL/67323/67323.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 184091,
@@ -908,8 +908,8 @@
    "city": "小松市",
    "area": "粟津温泉",
    "region": "加賀",
-   "rating": 4.14,
-   "reviews": 393,
+   "rating": 4.13,
+   "reviews": 398,
    "price": 8100,
    "kind": null,
    "pick": false,
@@ -924,7 +924,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D184091",
    "image": "https://trvimg.r10s.jp/share/HOTEL/184091/184091.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 14819,
@@ -941,7 +941,7 @@
    "features": [],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D14819",
    "image": "https://trvimg.r10s.jp/share/HOTEL/14819/14819.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 130490,
@@ -949,9 +949,9 @@
    "city": "金沢市",
    "area": "湯涌",
    "region": "金沢",
-   "rating": 4.79,
-   "reviews": 108,
-   "price": 21300,
+   "rating": 4.75,
+   "reviews": 109,
+   "price": 11600,
    "kind": null,
    "pick": false,
    "text": "当日予約歓迎！素泊・朝食付18時まで予約可",
@@ -962,7 +962,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D130490",
    "image": "https://trvimg.r10s.jp/share/HOTEL/130490/130490.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 19996,
@@ -971,7 +971,7 @@
    "area": "湯涌",
    "region": "金沢",
    "rating": 3.92,
-   "reviews": 255,
+   "reviews": 256,
    "price": 19250,
    "kind": null,
    "pick": false,
@@ -983,7 +983,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D19996",
    "image": "https://trvimg.r10s.jp/share/HOTEL/19996/19996.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 109160,
@@ -993,7 +993,7 @@
    "region": "金沢",
    "rating": 4.13,
    "reviews": 181,
-   "price": 18200,
+   "price": 19400,
    "kind": null,
    "pick": false,
    "text": "全7室、部屋食で四季を味わう金沢の宿",
@@ -1004,7 +1004,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D109160",
    "image": "https://trvimg.r10s.jp/share/HOTEL/109160/109160.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 7794,
@@ -1023,7 +1023,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7794",
    "image": "https://trvimg.r10s.jp/share/HOTEL/7794/7794.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 193070,
@@ -1032,8 +1032,8 @@
    "area": "東山・兼六園",
    "region": "金沢",
    "rating": 4.72,
-   "reviews": 58,
-   "price": 8300,
+   "reviews": 59,
+   "price": 7725,
    "kind": null,
    "pick": false,
    "text": "北陸の恵みの食材を楽しむ、全15室のスモールリノベーションホテル",
@@ -1043,7 +1043,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D193070",
    "image": "https://trvimg.r10s.jp/share/HOTEL/193070/193070.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 167495,
@@ -1063,7 +1063,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D167495",
    "image": "https://trvimg.r10s.jp/share/HOTEL/167495/167495.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 187162,
@@ -1082,7 +1082,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D187162",
    "image": "https://trvimg.r10s.jp/share/HOTEL/187162/187162.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 184629,
@@ -1099,7 +1099,7 @@
    "features": [],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D184629",
    "image": "https://trvimg.r10s.jp/share/HOTEL/184629/184629.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 151448,
@@ -1118,7 +1118,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D151448",
    "image": "https://trvimg.r10s.jp/share/HOTEL/151448/151448.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "id": 75255,
@@ -1139,7 +1139,7 @@
    ],
    "url": "https://hb.afl.rakuten.co.jp/hgc/57d349d5.b23354d5.57d349d6.03cbb5c1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D75255",
    "image": "https://trvimg.r10s.jp/share/HOTEL/75255/75255.jpg",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   }
  ]
 }
