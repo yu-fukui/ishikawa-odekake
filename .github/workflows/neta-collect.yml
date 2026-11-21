@@ -43,14 +43,22 @@ jobs:
     outputs:
       run: ${{ steps.day.outputs.run }}
     steps:
-      - name: 集める日か（月・木）
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: neta/設定.json
+          sparse-checkout-cone-mode: false
+      - name: 集める日か（月・木。neta/設定.json の「軽くする」の期間は、その曜日だけ）
         id: day
         run: |
           dow=$(TZ=Asia/Tokyo date +%u)   # 1=月 … 7=日
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$dow" = "1" ] || [ "$dow" = "4" ]; then
+          days="1 4"
+          # 軽くする期間は、その曜日だけ（2026-11-21 代表「A」：石川も福井と同じように軽くする。11月末まで木曜だけ）
+          light=$(python3 -c "import json,os; d=json.load(open('neta/設定.json')) if os.path.exists('neta/設定.json') else {}; k=d.get('軽くする') or {}; print(' '.join(map(str, k.get('情報集めの曜日', []))) if k.get('情報集めの曜日') and '$(TZ=Asia/Tokyo date +%F)' <= k.get('まで', '') else '')")
+          if [ -n "$light" ]; then days="$light"; echo "軽くする期間なので、集めるのは曜日番号 ${days} だけ"; fi
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [[ " $days " == *" $dow "* ]]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
-            echo "今日（曜日番号 ${dow}）は集めない日です。集めるのは月・木だけ。"
+            echo "今日（曜日番号 ${dow}）は集めない日です。集めるのは曜日番号 ${days} だけ。"
             echo "run=false" >> "$GITHUB_OUTPUT"
           fi
 
