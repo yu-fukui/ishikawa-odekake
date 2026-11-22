@@ -131,7 +131,9 @@ function tomorrowQueue() {
   let 土曜まとめ = null;
   try {
     const 使う = JSON.parse(fs.readFileSync("region.json", "utf8")).使う || {};
-    if (使う["土曜12時は手入れのまとめ"] && new Date(`${tomorrow}T00:00:00Z`).getUTCDay() === 6) {
+    // 水曜12時も手入れ（今週オープンした店。2026-11-23 運用部・石川）。曜日は 使う.手入れの12時の曜日（0=月〜6=日）
+    const 曜日 = 使う["手入れの12時の曜日"] || (使う["土曜12時は手入れのまとめ"] ? [5] : []);
+    if (曜日.includes((new Date(`${tomorrow}T00:00:00Z`).getUTCDay() + 6) % 7)) {
       土曜まとめ = times.includes("12:00") ? "入っている" : "まだ入っていない（運用部が手で入れる枠）";
     }
   } catch {}

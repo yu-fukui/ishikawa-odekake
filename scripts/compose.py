@@ -480,6 +480,21 @@ def describe_filled(filled: dict[int, dict]) -> str:
     return "\n".join(parts)
 
 
+def 問いの題材の指示(target_date) -> list[str]:
+    """曜日で問いの題材を配る（2026-11-23 統括決定・代表の閲覧施策）。
+    火・金は「土地の言葉×県外と比べる」、ほかの日は「暮らし×県外と比べる」。
+    根拠：11/20「県外で通じなかった言葉」返信6件、言葉以外の県外比べは0〜1件（運用部・石川）。region.json の 使う.問いの曜日配り。"""
+    if not 地域.地域.get("使う", {}).get("問いの曜日配り", False):
+        return []
+    if target_date.weekday() in (1, 4):
+        return ["**今日（火・金）の問いの題材：「土地の言葉 × 県外の人と比べる」**（例：「県外で通じなかった福井の言葉」"
+                "「県外の人に聞き返された言い回し」）。例や選択肢に出す言葉は、材料（ネタ帳・出典）にある言葉だけ。"
+                "無ければ例を出さずに聞く（例なしの問いでよい）。同じ問いをあける決まりはそのまま", ""]
+    return ["**今日の問いの題材：「暮らし × 県外の人と比べる」**（食べもの・家の習慣・行事・天気・買いもの・冬の支度など、"
+            "言葉以外。例：「県外の人に驚かれた福井の暮らしの習慣」「福井だけだと思っていた食べもの」）。"
+            "今日は土地の言葉を聞かない（言葉の問いは火・金）。同じ問いをあける決まりはそのまま", ""]
+
+
 def build_prompt(board: str, neta: str, articles: str, works: str, recent: str, target_date, needed, filled, hotel=None, hotel_hour=None, mugi=None, kifu=None, 使えない: str = "", stay=None, 予備の数: int = 0, kifu_hour=None, 問い履歴: str = "") -> str:
     def _枠の行(hour, pillar, form, aim):
         行 = f"- {hour}:00 ｜ 深さ: {DEPTH.get(hour, 'B')} ｜ 柱: {pillar} ｜ 型: {form} ｜ ねらい: {aim}"
@@ -627,6 +642,7 @@ def build_prompt(board: str, neta: str, articles: str, works: str, recent: str, 
         "この枠は催しを紹介しません。読む人が自分の経験や好みで答えられる問いを1つ出します。",
         "上の「締めの問い」の A/B はこの枠には当てはめません（毎日、問いで終えます）。",
         "",
+        *問いの題材の指示(target_date),
         "**反応がよかった形（2026-10-13 代表「どういう問いかけ投稿が反応がよいか、以降の投稿に反映して」・運用部の集計）：**",
         "  ・**場面がはっきりしていて、1つだけ選ぶなら？** と聞く形",
         "    （例：出張で駅前のホテルに1泊するなら／県外の友だちと晩ごはんを1回だけ食べるなら／新そばを食べに行くなら／温泉で1泊するなら）",
@@ -3255,9 +3271,12 @@ def main() -> None:
 
     # 毎週土曜12時は、運用部が手で入れる「まとめ」の専用の枠（region.json の 使う.土曜12時は手入れのまとめ。
     # 2026-10-24 代表・運用部・石川）。作成は作らず、予備でも埋めない。空いたままなら health.json で気づく
-    if 地域.地域.get("使う", {}).get("土曜12時は手入れのまとめ", False) and target_date.weekday() == 5:
+    # 水曜12時も「今週オープンした店」を運用部が手で入れる（2026-11-23 運用部・石川、11/25 から）。曜日は 使う.手入れの12時の曜日
+    _使う = 地域.地域.get("使う", {})
+    _手入れの曜日 = _使う.get("手入れの12時の曜日") or ([5] if _使う.get("土曜12時は手入れのまとめ", False) else [])
+    if target_date.weekday() in _手入れの曜日:
         if any(h == 12 for h, *_ in needed):
-            print(f"{target_date} は土曜なので、12:00 は運用部が手で入れるまとめの枠です（作らない）。")
+            print(f"{target_date} は{'月火水木金土日'[target_date.weekday()]}曜なので、12:00 は運用部が手で入れる枠です（作らない）。")
         needed = [slot for slot in needed if slot[0] != 12]
         if not needed:
             print("作れる枠がありません。何もしません。")
