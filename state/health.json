@@ -1,19 +1,46 @@
 {
   "リポジトリ": "yu-fukui/ishikawa-odekake",
-  "作成時刻": "2026-11-22 20:07 JST",
+  "作成時刻": "2026-11-22 20:51 JST",
   "今日": "2026-11-22",
-  "状態": "要確認",
+  "状態": "ok",
   "明日のキュー": {
     "対象日": "2026-11-23",
-    "本数": 1,
+    "本数": 8,
     "予定本数": 10,
-    "足りない": 9,
+    "足りない": 2,
     "時刻": [
-      "15:00"
+      "08:00",
+      "14:00",
+      "15:00",
+      "17:00",
+      "19:00",
+      "21:00",
+      "22:00",
+      "23:00"
     ],
     "同じ時刻が2本以上": [],
     "読めない行": [],
     "投稿": [
+      {
+        "id": "p-2026112208-hfhp",
+        "時刻": "08:00",
+        "1行目": "金沢の香林坊大和に、「DEAN & DELUCA」のPOP-UP STOREが1",
+        "文字数": 99,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": false
+      },
+      {
+        "id": "p-2026112214-qqiz",
+        "時刻": "14:00",
+        "1行目": "県外の友だちが泊まりに来たとき。「石川の家はそうなんだ」と言われた、家の中の定番",
+        "文字数": 177,
+        "本文にリンク": false,
+        "続きにリンク": false,
+        "出典元あり": false,
+        "PRあり": false
+      },
       {
         "id": "p-2026112315-q81x",
         "時刻": "15:00",
@@ -23,6 +50,56 @@
         "続きにリンク": false,
         "出典元あり": false,
         "PRあり": true
+      },
+      {
+        "id": "p-2026112217-zxjp",
+        "時刻": "17:00",
+        "1行目": "加賀市山代温泉の「Cafe and Bar Cucuri」は、温泉街の町家を改装",
+        "文字数": 113,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": false
+      },
+      {
+        "id": "p-2026112219-whrv",
+        "時刻": "19:00",
+        "1行目": "金沢市片町1-11-16の「金沢炉端蔵 璃然（りぜん）」は、築150年の金沢町家",
+        "文字数": 191,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": false
+      },
+      {
+        "id": "p-2026112221-qknb",
+        "時刻": "21:00",
+        "1行目": "いしかわスタイルが、「【2026年度】石川県内の学園祭開催スケジュールまとめ」を",
+        "文字数": 94,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": false
+      },
+      {
+        "id": "p-2026112222-sfyf",
+        "時刻": "22:00",
+        "1行目": "冬の鍋や煮ものに、いつもと違う野菜を足したい。でも、どれが地の野菜なのか分からな",
+        "文字数": 213,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": false,
+        "PRあり": true
+      },
+      {
+        "id": "p-2026112223-zrjl",
+        "時刻": "23:00",
+        "1行目": "金沢・ひがし茶屋街に、日本茶ソフトクリームの専門店「日常茶飯」があります。老舗茶",
+        "文字数": 98,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": false
       }
     ]
   },
@@ -102,12 +179,12 @@
       "ファイル": "health-snapshot.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-22 20:07 JST",
+        "時刻": "2026-11-22 20:51 JST",
         "結果": "in_progress",
         "きっかけ": "workflow_run",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45015757364"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45019357480"
       },
-      "最後の成功": "2026-11-22 03:07 JST",
+      "最後の成功": "2026-11-22 20:07 JST",
       "今日走ったか": true,
       "24時間の実行": 3,
       "24時間の失敗": 0,
@@ -190,13 +267,13 @@
       "ファイル": "replies-read.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-21 20:46 JST",
+        "時刻": "2026-11-22 20:46 JST",
         "結果": "success",
         "きっかけ": "workflow_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/44900713013"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45018985714"
       },
-      "最後の成功": "2026-11-21 20:46 JST",
-      "今日走ったか": false,
+      "最後の成功": "2026-11-22 20:46 JST",
+      "今日走ったか": true,
       "24時間の実行": 1,
       "24時間の失敗": 0,
       "最後の失敗": {
@@ -230,14 +307,14 @@
       "ファイル": "test.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-21 20:52 JST",
+        "時刻": "2026-11-22 20:48 JST",
         "結果": "success",
         "きっかけ": "push",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/44901179640"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45019105499"
       },
-      "最後の成功": "2026-11-21 20:52 JST",
-      "今日走ったか": false,
-      "24時間の実行": 4,
+      "最後の成功": "2026-11-22 20:48 JST",
+      "今日走ったか": true,
+      "24時間の実行": 2,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -262,37 +339,32 @@
       "ファイル": "threads-compose.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-22 20:00 JST",
-        "結果": "failure",
-        "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45015174077"
+        "時刻": "2026-11-22 20:48 JST",
+        "結果": "success",
+        "きっかけ": "workflow_dispatch",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45019113703"
       },
-      "最後の成功": "2026-11-21 20:00 JST",
+      "最後の成功": "2026-11-22 20:48 JST",
       "今日走ったか": true,
-      "24時間の実行": 1,
+      "24時間の実行": 2,
       "24時間の失敗": 1,
       "最後の失敗": {
         "時刻": "2026-11-22 20:00 JST",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45015174077",
-        "理由": [
-          "compose: Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-python@v5. For more information see: https://github.blog",
-          "compose: 予備が足りず、空いたままの枠: 6:00、8:00、10:00、12:00、17:00、19:00、21:00、23:00",
-          "compose: 14:00（問いかけの枠）が空いています。予備では埋めません。運用で問いを入れてください。"
-        ]
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45015174077"
       },
-      "判定": "失敗"
+      "判定": "成功"
     },
     {
       "名前": "Threads 予約投稿",
       "ファイル": "threads-post.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-22 20:00 JST",
+        "時刻": "2026-11-22 20:50 JST",
         "結果": "success",
         "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45015173523"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45019269088"
       },
-      "最後の成功": "2026-11-22 20:00 JST",
+      "最後の成功": "2026-11-22 20:50 JST",
       "今日走ったか": true,
       "24時間の実行": 100,
       "24時間の失敗": 0,
@@ -339,19 +411,16 @@
       "ファイル": "pages-build-deployment",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-22 20:07 JST",
+        "時刻": "2026-11-22 20:51 JST",
         "結果": "in_progress",
         "きっかけ": "dynamic",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45015739886"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45019347279"
       },
-      "最後の成功": "2026-11-22 19:01 JST",
+      "最後の成功": "2026-11-22 20:48 JST",
       "今日走ったか": true,
-      "24時間の実行": 24,
+      "24時間の実行": 22,
       "24時間の失敗": 0,
       "判定": "実行中"
     }
-  ],
-  "警告": [
-    "翌日ぶんの作成（threads-compose.yml）が今日失敗しています。理由：[\"compose: Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-python@v5. For more information see: https://"
   ]
 }
