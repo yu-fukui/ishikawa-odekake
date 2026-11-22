@@ -1156,7 +1156,12 @@ def ask(api_key: str, model: str, prompt: str) -> str:
         # （2026-10-21 福井・10/22 ぎふあいち。10/20 に作成の決まりが増えてから出力が 14,000〜16,000 に）。
         # 上げても使った分しか払わないので、やり直しの分（入力の出し直し）が減る。流さない（stream なし）呼び出しで
         # 10分の上限にかからないよう 24000 にとどめる
-        body = {"model": model, "max_tokens": 24000, "messages": messages}
+        # 上限は ANTHROPIC_MAX_TOKENS で変えられる（空なら 24000）。考える量は ANTHROPIC_EFFORT（空なら送らない）
+        # （福井 #350・#355 の写し。2026-11-22：石川の「軽くする」で Sonnet にしたとき、これが無く、
+        #  Sonnet の既定の考える量（high）で 24000 を使い切り、本文が0本になった）
+        body = {"model": model, "max_tokens": int(os.environ.get("ANTHROPIC_MAX_TOKENS") or 24000), "messages": messages}
+        if (考える量 := os.environ.get("ANTHROPIC_EFFORT", "").strip()):
+            body["output_config"] = {"effort": 考える量}
         if 道具:
             body["tools"] = 道具
         try:
