@@ -8,6 +8,16 @@ import compose  # noqa: E402
 
 
 class 問いの曜日のテスト(unittest.TestCase):
+    def setUp(self):
+        # ほかのテストが地域を入れ替えることがあるので、この設定だけ入れておく
+        self._前 = compose.地域.地域
+        self.addCleanup(setattr, compose.地域, "地域", self._前)
+        compose.地域.地域 = {**self._前, "使う": {**self._前.get("使う", {}), "問いの曜日配り": True}}
+
+    def test_設定が無ければ何も足さない(self):
+        compose.地域.地域 = {**self._前, "使う": {}}
+        self.assertEqual(compose.問いの題材の指示(date(2026, 11, 24)), [])
+
     def test_火金は言葉(self):
         for d in (date(2026, 11, 24), date(2026, 11, 27)):
             self.assertIn("土地の言葉 × 県外", compose.問いの題材の指示(d)[0])
