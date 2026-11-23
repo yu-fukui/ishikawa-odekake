@@ -14,6 +14,7 @@
   NETA_DOC_ID        任意。ネタ帳の Google ドキュメント ID
                      （neta/ネタ帳.md があるときは、そちらが優先される）
   ANTHROPIC_MODEL    任意。使うモデル。未指定なら利用可能なものから自動で選ぶ
+  ANTHROPIC_EFFORT   任意。考える量（low/medium/high）。Sonnet 5.5 は既定が high で出力を使い切るので medium を渡す
   DRY_RUN            任意。"true" なら生成結果を表示するだけでファイルを書き換えない
 """
 
@@ -161,6 +162,7 @@ def _入れる(名前: str) -> bool:
 今週末まとめを使う = _入れる("今週末まとめ")  # 金曜 19:00 を「今週末の◯◯」まとめにする
 メンションを使う = _入れる("メンション")      # 新店の投稿で、確かめたお店の公式 Threads をメンションする
 WEEKEND_HOUR = 19
+新店の作り直し回数 = int(地域.地域.get("新店の作り直し回数", 2))
 特集 = 地域.地域.get("特集", [])               # [{"名","見出し","月":[..],"説明"}]
 
 
@@ -1242,10 +1244,11 @@ def ask(api_key: str, model: str, prompt: str) -> str:
         # （2026-10-21 福井・10/22 ぎふあいち。10/20 に作成の決まりが増えてから出力が 14,000〜16,000 に）。
         # 上げても使った分しか払わないので、やり直しの分（入力の出し直し）が減る。流さない（stream なし）呼び出しで
         # 10分の上限にかからないよう 24000 にとどめる
-        # 上限は ANTHROPIC_MAX_TOKENS で変えられる（空なら 24000）。考える量は ANTHROPIC_EFFORT（空なら送らない）
-        # （福井 #350・#355 の写し。2026-11-22：石川の「軽くする」で Sonnet にしたとき、これが無く、
-        #  Sonnet の既定の考える量（high）で 24000 を使い切り、本文が0本になった）
+        # 上限は ANTHROPIC_MAX_TOKENS で変えられる（空なら 24000）。Sonnet＋low でも、予備を2本あわせて作る晩は
+        # 24000 で切れて2本しか読めなかった（2026-11-04 ぎふあいち）。使った分しか払わないので、上げても費用は増えない
         body = {"model": model, "max_tokens": int(os.environ.get("ANTHROPIC_MAX_TOKENS") or 24000), "messages": messages}
+        # 考える量（effort）。Sonnet 5.5 は既定が high で、考える分だけで 24000 を使い切り本文が空になった
+        # （2026-11-03 ぎふあいち）。Opus 5.5 の既定は medium。空なら送らない（今までどおり）
         if (考える量 := os.environ.get("ANTHROPIC_EFFORT", "").strip()):
             body["output_config"] = {"effort": 考える量}
         if 道具:
@@ -1361,9 +1364,11 @@ def generate(api_key: str, model: str, prompt: str, hours: list[int]) -> list[di
             except (TypeError, ValueError):
                 continue
             if hour in hours and hour not in 集まった and (post.get("text") or "").strip():
-                # 新店・施設の投稿が型（2026-10-24 代表）から外れていたら、2回目までは作り直させる
+                # 新店・施設の投稿が型（2026-10-24 代表）から外れていたら、2回目までは作り直させる。
+                # 作り直しは1回ごとに API をもう1回呼ぶので、region.json の「新店の作り直し回数」で減らせる
+                # （ぎふあいちは 0。10/26・27 に作成が1日3回になり、費用が倍になった。2026-10-27 運用部・ぎふあいち）
                 直し = 新店の直し(post.get("text") or "")
-                if 直し and attempt < 3:
+                if 直し and attempt <= min(2, 新店の作り直し回数):
                     直してほしい[hour] = 直し
                     print(f"::warning::{hour}:00 は新店・施設の型から外れているので作り直します（{直し}）")
                     continue
