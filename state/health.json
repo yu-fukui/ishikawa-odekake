@@ -1,108 +1,17 @@
 {
   "リポジトリ": "yu-fukui/ishikawa-odekake",
-  "作成時刻": "2026-11-24 20:02 JST",
-  "今日": "2026-11-24",
-  "状態": "ok",
+  "作成時刻": "2026-11-25 06:26 JST",
+  "今日": "2026-11-25",
+  "状態": "要確認",
   "明日のキュー": {
-    "対象日": "2026-11-25",
-    "本数": 8,
+    "対象日": "2026-11-26",
+    "本数": 0,
     "予定本数": 10,
-    "足りない": 2,
-    "時刻": [
-      "06:00",
-      "08:00",
-      "10:00",
-      "14:00",
-      "15:00",
-      "17:00",
-      "21:00",
-      "22:00"
-    ],
-    "土曜12時のまとめ": "まだ入っていない（運用部が手で入れる枠）",
+    "足りない": 10,
+    "時刻": [],
     "同じ時刻が2本以上": [],
     "読めない行": [],
-    "投稿": [
-      {
-        "id": "p-2026112406-po3j",
-        "時刻": "06:00",
-        "1行目": "【石川】今日かぎりの催し",
-        "文字数": 70,
-        "本文にリンク": false,
-        "続きにリンク": true,
-        "出典元あり": true,
-        "PRあり": false
-      },
-      {
-        "id": "p-2026112408-kore",
-        "時刻": "08:00",
-        "1行目": "金沢カレーのチャンピオンカレーが、11月2日から期間限定で「素揚げ野菜カレー」を",
-        "文字数": 88,
-        "本文にリンク": false,
-        "続きにリンク": true,
-        "出典元あり": true,
-        "PRあり": false
-      },
-      {
-        "id": "p-2026112410-hwkm",
-        "時刻": "10:00",
-        "1行目": "北陸で唯一の工場「三吉もやし」の製造の裏側を、週末金沢が体験レポートしています。",
-        "文字数": 76,
-        "本文にリンク": false,
-        "続きにリンク": true,
-        "出典元あり": true,
-        "PRあり": false
-      },
-      {
-        "id": "p-2026112414-njuj",
-        "時刻": "14:00",
-        "1行目": "県外の友だちと買いものに行ったとき。「石川のお店はそうなんだ」と言われたことを、",
-        "文字数": 187,
-        "本文にリンク": false,
-        "続きにリンク": false,
-        "出典元あり": false,
-        "PRあり": false
-      },
-      {
-        "id": "p-2026112515-hmxc",
-        "時刻": "15:00",
-        "1行目": "【石川】浴衣が置いてある宿3選",
-        "文字数": 82,
-        "本文にリンク": false,
-        "続きにリンク": true,
-        "出典元あり": false,
-        "PRあり": true
-      },
-      {
-        "id": "p-2026112417-qqi8",
-        "時刻": "17:00",
-        "1行目": "金沢市八日市出町に、ハワイ料理の「ALOHA LED CAFE & Cultur",
-        "文字数": 100,
-        "本文にリンク": false,
-        "続きにリンク": true,
-        "出典元あり": true,
-        "PRあり": false
-      },
-      {
-        "id": "p-2026112421-tl0b",
-        "時刻": "21:00",
-        "1行目": "12月6日（日）、白山市の鶴来総合文化会館クレインで、ガチャピン・ムックと一緒に",
-        "文字数": 97,
-        "本文にリンク": false,
-        "続きにリンク": true,
-        "出典元あり": true,
-        "PRあり": false
-      },
-      {
-        "id": "p-2026112422-3bok",
-        "時刻": "22:00",
-        "1行目": "贈りものや自分へのごほうびに、特別なぶどうを探したい。でも、どれを選べばいいのか",
-        "文字数": 169,
-        "本文にリンク": false,
-        "続きにリンク": true,
-        "出典元あり": false,
-        "PRあり": true
-      }
-    ]
+    "投稿": []
   },
   "ワークフロー": [
     {
@@ -110,14 +19,14 @@
       "ファイル": "affiliate-check.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-24 07:10 JST",
+        "時刻": "2026-11-25 05:44 JST",
         "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45277019488"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45484012402"
       },
-      "最後の成功": "2026-11-24 07:10 JST",
+      "最後の成功": "2026-11-25 05:44 JST",
       "今日走ったか": true,
-      "24時間の実行": 1,
+      "24時間の実行": 2,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -142,25 +51,20 @@
       "ファイル": "balance-check.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-24 07:09 JST",
-        "結果": "failure",
+        "時刻": "2026-11-25 05:44 JST",
+        "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45276894633"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45483962526"
       },
-      "最後の成功": "2026-11-23 02:57 JST",
+      "最後の成功": "2026-11-25 05:44 JST",
       "今日走ったか": true,
-      "24時間の実行": 1,
+      "24時間の実行": 2,
       "24時間の失敗": 1,
       "最後の失敗": {
         "時刻": "2026-11-24 07:09 JST",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45276894633",
-        "理由": [
-          "check: Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-node@v4. For more information see: https://github.blog/c",
-          "check: Process completed with exit code 1.",
-          "check: 🔴 yu-fukui/ishikawa-odekake: API が 400 を返しました"
-        ]
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45276894633"
       },
-      "判定": "失敗"
+      "判定": "成功"
     },
     {
       "名前": "投稿を消す（手で動かす・代表の「消して」があったときだけ）",
@@ -189,14 +93,14 @@
       "ファイル": "health-snapshot.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-24 20:02 JST",
+        "時刻": "2026-11-25 06:26 JST",
         "結果": "in_progress",
-        "きっかけ": "workflow_run",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45380445848"
+        "きっかけ": "schedule",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45491056953"
       },
-      "最後の成功": "2026-11-24 07:48 JST",
+      "最後の成功": "2026-11-24 20:02 JST",
       "今日走ったか": true,
-      "24時間の実行": 2,
+      "24時間の実行": 3,
       "24時間の失敗": 0,
       "判定": "実行中"
     },
@@ -267,7 +171,7 @@
         "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45309955302"
       },
       "最後の成功": "2026-11-24 11:06 JST",
-      "今日走ったか": true,
+      "今日走ったか": false,
       "24時間の実行": 1,
       "24時間の失敗": 0,
       "判定": "成功"
@@ -277,15 +181,15 @@
       "ファイル": "replies-read.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-23 20:47 JST",
+        "時刻": "2026-11-24 20:48 JST",
         "結果": "success",
         "きっかけ": "workflow_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45168352511"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45387550585"
       },
-      "最後の成功": "2026-11-23 20:47 JST",
+      "最後の成功": "2026-11-24 20:48 JST",
       "今日走ったか": false,
       "24時間の実行": 2,
-      "24時間の失敗": 1,
+      "24時間の失敗": 0,
       "最後の失敗": {
         "時刻": "2026-11-23 20:47 JST",
         "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45168324322"
@@ -303,7 +207,7 @@
         "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45340338801"
       },
       "最後の成功": "2026-11-24 15:25 JST",
-      "今日走ったか": true,
+      "今日走ったか": false,
       "24時間の実行": 2,
       "24時間の失敗": 0,
       "最後の失敗": {
@@ -317,15 +221,15 @@
       "ファイル": "test.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-24 12:26 JST",
+        "時刻": "2026-11-24 20:48 JST",
         "結果": "success",
         "きっかけ": "push",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45319538496"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45387501184"
       },
-      "最後の成功": "2026-11-24 12:26 JST",
-      "今日走ったか": true,
-      "24時間の実行": 10,
-      "24時間の失敗": 1,
+      "最後の成功": "2026-11-24 20:48 JST",
+      "今日走ったか": false,
+      "24時間の実行": 4,
+      "24時間の失敗": 0,
       "最後の失敗": {
         "時刻": "2026-11-23 21:26 JST",
         "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45174311159"
@@ -359,7 +263,7 @@
         "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45380155945"
       },
       "最後の成功": "2026-11-24 20:00 JST",
-      "今日走ったか": true,
+      "今日走ったか": false,
       "24時間の実行": 1,
       "24時間の失敗": 0,
       "最後の失敗": {
@@ -373,12 +277,12 @@
       "ファイル": "threads-post.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-24 20:00 JST",
+        "時刻": "2026-11-25 06:20 JST",
         "結果": "success",
         "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45380148170"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45490095054"
       },
-      "最後の成功": "2026-11-24 20:00 JST",
+      "最後の成功": "2026-11-25 06:20 JST",
       "今日走ったか": true,
       "24時間の実行": 100,
       "24時間の失敗": 0,
@@ -396,7 +300,7 @@
       },
       "最後の成功": "2026-11-23 20:24 JST",
       "今日走ったか": false,
-      "24時間の実行": 1,
+      "24時間の実行": 0,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -405,14 +309,14 @@
       "ファイル": "threads-review.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-24 07:00 JST",
+        "時刻": "2026-11-25 05:37 JST",
         "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45275341339"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45482771216"
       },
-      "最後の成功": "2026-11-24 07:00 JST",
+      "最後の成功": "2026-11-25 05:37 JST",
       "今日走ったか": true,
-      "24時間の実行": 1,
+      "24時間の実行": 2,
       "24時間の失敗": 0,
       "最後の失敗": {
         "時刻": "2026-10-14 02:34 JST",
@@ -425,16 +329,19 @@
       "ファイル": "pages-build-deployment",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-24 20:02 JST",
+        "時刻": "2026-11-25 06:01 JST",
         "結果": "success",
         "きっかけ": "dynamic",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45380417423"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45486812016"
       },
-      "最後の成功": "2026-11-24 20:02 JST",
+      "最後の成功": "2026-11-25 06:01 JST",
       "今日走ったか": true,
-      "24時間の実行": 30,
+      "24時間の実行": 23,
       "24時間の失敗": 0,
       "判定": "成功"
     }
+  ],
+  "警告": [
+    "翌日ぶんの作成（threads-compose.yml）が今日まだ走っていません。cron-job.org の起動を確かめてください"
   ]
 }
