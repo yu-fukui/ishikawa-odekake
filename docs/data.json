@@ -1,9 +1,189 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-26",
  "items": [
   {
-   "text": "金沢市千日町のカフェ「青星（あおぼし）」は、もともと大阪・天王寺で人気を集めた店で、2026年1月に店主の地元の金沢へ場所を移して再出発した。本と古道具が置かれた隠れ家のような空間で、自家焙煎コーヒーと天然酵母ドーナツがある（週末金沢の記事）",
-   "note": "千日町で本のある静かなカフェを探す人向けの新店",
+   "text": "加賀市山代温泉18-60-4に、プリン専門店「歌舞伎ぷりん」が10月10日にオープン。山代温泉の総湯や古総湯のすぐそばで、小松発祥の歌舞伎をモチーフにしたプリン5種類が並ぶ。「プレーン」500円、能登のミルクと能登塩を使った「ミルクとしお」650円。テイクアウトのほか、店内のベンチでイートインもできる（営業 9:30-17:00、不定休）（週末金沢の記事）",
+   "note": "山代温泉の散策で、プリンの寄り道先を探す人向けの新店",
+   "kind": "スポット",
+   "area": "加賀市",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "source": "https://www.weekend-kanazawa.com/entry/kabuki-pudding?utm_source=feed",
+   "instagram": "https://www.instagram.com/kabukipudding/",
+   "written": "2026-11-26",
+   "pick": false,
+   "region": "加賀",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/214045148fb528c00e97494b283479c2bae0c4bf/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20261113%2F20261113224815.png",
+    "title": "【加賀】とろ〜り飲める食感♡「歌舞伎ぷりん」がオープン！山代温泉街の新たな名物に！【NEW OPEN】 - 週末、金沢。",
+    "description": "10月10日、加賀市山代温泉に「歌舞伎ぷりん」がオープン！ 小松発祥の歌舞伎をモチーフにした、飲めるほどとろ〜りのプリンが楽しめる専門店ができました。 早くも話題で、連日多くの観光客で賑わっているお…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "金沢市石引に、つゆだくパスタの「TORRADO（トラド）」が10月5日に移転オープン。十間町で創業し古府を経た約20年続く店で、店内はカウンター席とテーブル席。「特製カルボナーラ」のランチセットは2,200円（パン・サラダ・ドリンク付）（週末金沢の記事）",
+   "note": "石引でパスタの店を探す人向けの移転オープン",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": "2026-10-05",
+   "end": "2026-10-05",
+   "source": "https://www.weekend-kanazawa.com/entry/torrado?utm_source=feed",
+   "instagram": null,
+   "written": "2026-11-26",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/88820f51868e11bb7c909d623b983b23cc942e21/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcolorful-company-kanazawa%2F20261111%2F20261111163116.jpg",
+    "title": "【金沢】名店「TORRADO（トラド）」が石引に移転オープン！名物つゆだくパスタの美味しさに溺れる♡【NEW OPEN】 - 週末、金沢。",
+    "description": "10月5日、金沢市石引に「TORRADO（トラド）」が移転オープン！ 名物「つゆだくパスタ」でお馴染みの人気店が、古府から石引へと舞台を移し、変わらぬ味とともに待望の再始動を果たしました。 早くもオ…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "金沢市松村に、羊肉料理の「羊料理研究所シープパーク124」が11/24にオープン（いしかわスタイルの新店・リニューアル情報）",
+   "note": "松村で羊肉料理を探す人向けの新店",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "source": "https://www.instagram.com/sheeppark124/",
+   "instagram": null,
+   "written": "2026-11-26",
+   "pick": false,
+   "region": "金沢",
+   "og": null
+  },
+  {
+   "text": "12/24、石川県庁19階の展望ロビーに、カフェ「HUM＆Go石川県庁展望ロビーカフェ」がオープン。運営は県立図書館などでもカフェを営む「おまめ舎」（野々市市）。全38席で、県産木材を使った空間。営業は平日 10:00〜17:00、土日祝 10:00〜18:00、原則月曜（祝日の場合は翌火曜）と年末年始は休み（北國新聞・北陸中日新聞の記事）",
+   "note": "金沢の街並みや白山の眺めを楽しめる場所で、ひと休みを探す人向けの新店",
+   "kind": "スポット",
+   "area": "野々市市",
+   "start": "2026-12-24",
+   "end": "2026-12-24",
+   "source": "https://www.hokkoku.co.jp/articles/-/2292165",
+   "instagram": null,
+   "written": "2026-11-26",
+   "pick": false,
+   "region": "加賀",
+   "og": {
+    "image": "https://hokkoku.ismcdn.jp/mwimgs/c/b/1200wm/img_cbf6c7627001c2ee62177f92b0d0d2fd197778.jpg",
+    "title": "石川県庁１９階にカフェ復活 １２月２４日オープン｜政治｜石川のニュース｜北國新聞",
+    "description": "３月に喫茶コーナーが閉店した県庁１９階展望ロビーで１２月２４…",
+    "site": "北國新聞"
+   }
+  },
+  {
+   "text": "12/5(土)13:00〜17:30（受付 12:30〜）、白山市美川浜町ヨ103の美川コミュニティセンターで「白山えんむすび交流会 〜「楽しい」がふたりを近づける〜」が開かれる。対象は30〜39歳の独身男女各9名で、ボードゲームを楽しみながら交流する。費用3,000円。申込は必要で、締切は11/29(日)、応募多数の場合は抽選（先着順ではない）。応募は白山市のページにある応募フォームから。主催は白山市の子育て支援課（白山市の案内）",
+   "note": "12月上旬の土曜に、白山市の出会いの催しを探す30代の人向け",
+   "kind": "話題",
+   "area": "白山市",
+   "start": "2026-11-29",
+   "end": "2026-12-05",
+   "source": "https://www.city.hakusan.lg.jp/kosodate/1012913/1007761.html",
+   "instagram": null,
+   "written": "2026-11-26",
+   "pick": false,
+   "region": "加賀",
+   "og": {
+    "image": null,
+    "title": "【締切間近】白山えんむすび交流会 ～「楽しい」がふたりを近づける～｜白山市公式ホームページ",
+    "description": "白山市公式ホームページ",
+    "site": "白山市公式ホームページ"
+   }
+  },
+  {
+   "text": "11/28(土)〜2027/2/7(日)、金沢くらしの博物館（金沢市飛梅町）で、昭和100年記念企画展「高度成長期のくらし」が開かれる。昭和30〜40年代の電化製品などを中心に、くらしの移り変わりを紹介する（内閣官房の昭和100年関連施策の資料）",
+   "note": "昭和のくらしの道具を見に出かけたい人向けの展示",
+   "kind": "催し",
+   "area": "金沢市",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "source": "https://www.cas.go.jp/jp/seisaku/showa100nen/dai5/shiryo3-3.pdf",
+   "instagram": null,
+   "written": "2026-11-26",
+   "pick": false,
+   "region": "金沢",
+   "og": null
+  },
+  {
+   "text": "金沢湯涌江戸村に新棟がオープンした。映像や体験コーナーで江戸文化を紹介している（金沢経済新聞の記事）",
+   "note": "湯涌で江戸文化にふれる場所を探す人向けの新施設",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://kanazawa.keizai.biz/headline/4124/",
+   "instagram": null,
+   "written": "2026-11-26",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://images.keizai.biz/kanazawa_keizai/headline/1795144564_photo.jpg",
+    "title": "金沢湯涌江戸村に新棟オープン 映像や体験コーナーで江戸文化を紹介",
+    "description": "「金沢湯涌江戸村」（金沢市湯涌荒屋町）に11月21日、新たに管理棟がオープンする。",
+    "site": "金沢経済新聞"
+   }
+  },
+  {
+   "text": "11/28(土)、近江町いちば館広場で「農村RMO推進フォーラム 〜地域の魅力と人がつながる、未来を育むマルシェ〜」が開かれる（いしかわスタイルの記事）（→ 11月最終の土曜に、近江町でマルシェを探す人向け） ［会場: 近江町いちば館広場／日時: 2026年11月28日(土) ／ 11:00～15:30 ※売り切れ次第終了（https://ishikawa-style.com/rmo-forum-20261128/）］",
+   "note": "",
+   "kind": "催し",
+   "area": "金沢市",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "source": "https://ishikawa-style.com/rmo-forum-20261128/",
+   "instagram": null,
+   "written": "2026-11-26",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "http://ishikawa-style.com/wp-content/uploads/2026/11/261118-1_page-0001.jpg",
+    "title": "【11/28(土)】農村RMO推進フォーラム ～地域の魅力と人がつながる、未来を育むマルシェ～@近江町いちば館広場 | いしかわスタイル",
+    "description": "2026年11月28日(土)、金沢市の近江町いちば館広場で「農村RMO推進フォーラム ～地域の魅力と人がつながる、未来を育むマルシェ～」が開催されます。北陸の7団体による特産品が並びます。",
+    "site": "いしかわスタイル"
+   }
+  },
+  {
+   "text": "金沢市に、京都発の「じャりんこラーメン 西金沢店」がオープンした。山盛り九条ネギの豚骨醤油ラーメンと、金沢限定の新作「ピリ辛担々風」がある（週末金沢の記事）（→ 西金沢で寒い日のラーメンを探す人向けの新店） ［営業時間: 11:00〜15:00（ランチ営業のみ）／定休日: 不定休（ほぼ無休）（https://www.weekend-kanazawa.com/entry/jarinkoramen?utm_source=feed）］",
+   "note": "",
+   "kind": "スポット",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://www.weekend-kanazawa.com/entry/jarinkoramen?utm_source=feed",
+   "instagram": null,
+   "written": "2026-11-26",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://cdn.image.st-hatena.com/image/scale/36680bb2bde81ab7fc0b3a8af32010e09cfbbdd3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fw%2Fweekendkanazawa%2F20261030%2F20261030115959.jpg",
+    "title": "【金沢】本場・京都の味にやみつきの「じャりんこラーメン 西金沢店」！ 山盛り九条ネギの王道豚骨醤油＆金沢限定の新作「ピリ辛担々風」は寒い日にぴったり！【NEW…",
+    "description": "金沢市保古の幹線道路沿い、「いいとこ鳥」の敷地内にオープンしたのが、京都発の人気店「じゃりんこラーメン 西金沢店」です。「いいとこ鳥」グループがラーメン店を出店するということで注目を集めています。…",
+    "site": "週末、金沢。"
+   }
+  },
+  {
+   "text": "カナミー金沢が、新保本の「＆sand（アンドサンド）」を紹介している。具だくさんのサンドイッチとラテアートが楽しめる、木の温もりあふれるカフェ（→ 新保本でサンドイッチのカフェを探す人向け） ［営業時間: 8:00〜16:00／定休日: 木曜日（https://kaname-kanazawa.com/and-sand/）］",
+   "note": "",
+   "kind": "話題",
+   "area": "金沢市",
+   "start": null,
+   "end": null,
+   "source": "https://kaname-kanazawa.com/and-sand/",
+   "instagram": null,
+   "written": "2026-11-26",
+   "pick": false,
+   "region": "金沢",
+   "og": {
+    "image": "https://kaname-kanazawa.com/qw79p8M/wp-content/uploads/2026/11/20261102_112932363-1.jpg",
+    "title": "金沢の具だくさんサンドイッチとラテアート「アンドサンド」",
+    "description": "金沢市新保本のカフェ「＆sand（アンドサンド）」さん。具だくさんの手作りサンドイッチや、本格的なラテアートが魅力♪",
+    "site": "カナミー金沢｜あなたと金沢を結ぶローカルメディア"
+   }
+  },
+  {
+   "text": "金沢市千日町のカフェ「青星（あおぼし）」は、もともと大阪・天王寺で人気を集めた店で、2026年1月に店主の地元の金沢へ場所を移して再出発した。本と古道具が置かれた隠れ家のような空間で、自家焙煎コーヒーと天然酵母ドーナツがある（週末金沢の記事）（→ 千日町で本のある静かなカフェを探す人向けの新店） ［営業時間: 11:00-18:00／定休日: 火・水・木曜（https://www.weekend-kanazawa.com/entry/aoboshi?utm_source=feed）］",
+   "note": "",
    "kind": "話題",
    "area": "金沢市",
    "start": null,
@@ -2762,8 +2942,8 @@
    "og": null
   },
   {
-   "text": "能美市佐野町に、2026年3月にオープンしたカフェ「cafe evanSE note」がある。白川郷で栽培されたそば粉を使ったガレットのランチが食べられる",
-   "note": "能美でそば粉のガレットを食べたい人向け",
+   "text": "能美市佐野町に、2026年3月にオープンしたカフェ「cafe evanSE note」がある。白川郷で栽培されたそば粉を使ったガレットのランチが食べられる（→ 能美でそば粉のガレットを食べたい人向け） ［営業時間: 10:00〜17:00（ランチタイムは11:00〜14:00）／定休日: 火曜、水曜（https://www.kanazawabiyori.com/spot/spot_134139.html）］",
+   "note": "",
    "kind": "スポット",
    "area": "能美市",
    "start": null,
