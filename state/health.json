@@ -1,18 +1,64 @@
 {
   "リポジトリ": "yu-fukui/ishikawa-odekake",
-  "作成時刻": "2026-11-27 05:23 JST",
+  "作成時刻": "2026-11-27 20:01 JST",
   "今日": "2026-11-27",
   "状態": "要確認",
   "明日のキュー": {
     "対象日": "2026-11-28",
-    "本数": 0,
+    "本数": 4,
     "予定本数": 10,
-    "足りない": 10,
-    "時刻": [],
+    "足りない": 6,
+    "時刻": [
+      "06:00",
+      "08:00",
+      "10:00",
+      "15:00"
+    ],
     "土曜12時のまとめ": "まだ入っていない（運用部が手で入れる枠）",
     "同じ時刻が2本以上": [],
     "読めない行": [],
-    "投稿": []
+    "投稿": [
+      {
+        "id": "p-2026112706-hsl2",
+        "時刻": "06:00",
+        "1行目": "金沢市小坂町南に、素材を味わうお菓子の店「sakui MADE（サクイメイド）」",
+        "文字数": 76,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": false
+      },
+      {
+        "id": "p-2026112708-ihdb",
+        "時刻": "08:00",
+        "1行目": "金沢市大手町の街角に、何度も食べたくなる味わいのパン屋「BOULANGERIE ",
+        "文字数": 80,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": false
+      },
+      {
+        "id": "p-2026112710-u8ai",
+        "時刻": "10:00",
+        "1行目": "金沢市二口町に、沖縄そばの店「山原（やんばる）」があります。",
+        "文字数": 78,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": true,
+        "PRあり": false
+      },
+      {
+        "id": "p-2026112815-r6k6",
+        "時刻": "15:00",
+        "1行目": "【石川】最終チェックインが遅い宿3選",
+        "文字数": 87,
+        "本文にリンク": false,
+        "続きにリンク": true,
+        "出典元あり": false,
+        "PRあり": true
+      }
+    ]
   },
   "ワークフロー": [
     {
@@ -99,12 +145,12 @@
       "ファイル": "health-snapshot.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-27 05:22 JST",
+        "時刻": "2026-11-27 20:01 JST",
         "結果": "in_progress",
-        "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45890615731"
+        "きっかけ": "workflow_run",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45986950760"
       },
-      "最後の成功": "2026-11-26 20:02 JST",
+      "最後の成功": "2026-11-27 05:22 JST",
       "今日走ったか": true,
       "24時間の実行": 3,
       "24時間の失敗": 0,
@@ -158,7 +204,7 @@
       },
       "最後の成功": "2026-11-26 07:00 JST",
       "今日走ったか": false,
-      "24時間の実行": 1,
+      "24時間の実行": 0,
       "24時間の失敗": 0,
       "最後の失敗": {
         "時刻": "2026-10-19 09:20 JST",
@@ -171,13 +217,13 @@
       "ファイル": "odekake.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-26 08:33 JST",
+        "時刻": "2026-11-27 08:42 JST",
         "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45722283912"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45912493669"
       },
-      "最後の成功": "2026-11-26 08:33 JST",
-      "今日走ったか": false,
+      "最後の成功": "2026-11-27 08:42 JST",
+      "今日走ったか": true,
       "24時間の実行": 1,
       "24時間の失敗": 0,
       "判定": "成功"
@@ -207,13 +253,13 @@
       "ファイル": "status-numbers.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-26 13:24 JST",
+        "時刻": "2026-11-27 13:34 JST",
         "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45755036712"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45940690526"
       },
-      "最後の成功": "2026-11-26 13:24 JST",
-      "今日走ったか": false,
+      "最後の成功": "2026-11-27 13:34 JST",
+      "今日走ったか": true,
       "24時間の実行": 2,
       "24時間の失敗": 0,
       "最後の失敗": {
@@ -263,32 +309,37 @@
       "ファイル": "threads-compose.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-26 20:00 JST",
-        "結果": "success",
+        "時刻": "2026-11-27 20:00 JST",
+        "結果": "failure",
         "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45806599170"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45986865308"
       },
       "最後の成功": "2026-11-26 20:00 JST",
-      "今日走ったか": false,
+      "今日走ったか": true,
       "24時間の実行": 1,
-      "24時間の失敗": 0,
+      "24時間の失敗": 1,
       "最後の失敗": {
-        "時刻": "2026-11-23 20:00 JST",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45161225190"
+        "時刻": "2026-11-27 20:00 JST",
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45986865308",
+        "理由": [
+          "compose: Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-python@v5. For more information see: https://github.blog",
+          "compose: 予備が足りず、空いたままの枠: 17:00、19:00、21:00、23:00",
+          "compose: 10:00 を予備で埋めました：金沢市二口町に、沖縄そばの店「山原（やんばる）」があります。"
+        ]
       },
-      "判定": "成功"
+      "判定": "失敗"
     },
     {
       "名前": "Threads 予約投稿",
       "ファイル": "threads-post.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-27 05:20 JST",
+        "時刻": "2026-11-27 20:00 JST",
         "結果": "success",
         "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45890316776"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45986874092"
       },
-      "最後の成功": "2026-11-27 05:20 JST",
+      "最後の成功": "2026-11-27 20:00 JST",
       "今日走ったか": true,
       "24時間の実行": 100,
       "24時間の失敗": 0,
@@ -335,19 +386,19 @@
       "ファイル": "pages-build-deployment",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-11-27 04:35 JST",
+        "時刻": "2026-11-27 20:01 JST",
         "結果": "success",
         "きっかけ": "dynamic",
-        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45884764488"
+        "URL": "https://github.com/yu-fukui/ishikawa-odekake/actions/runs/45986921497"
       },
-      "最後の成功": "2026-11-27 04:35 JST",
+      "最後の成功": "2026-11-27 20:01 JST",
       "今日走ったか": true,
-      "24時間の実行": 25,
+      "24時間の実行": 22,
       "24時間の失敗": 0,
       "判定": "成功"
     }
   ],
   "警告": [
-    "翌日ぶんの作成（threads-compose.yml）が今日まだ走っていません。cron-job.org の起動を確かめてください"
+    "翌日ぶんの作成（threads-compose.yml）が今日失敗しています。理由：[\"compose: Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-python@v5. For more information see: https://"
   ]
 }
